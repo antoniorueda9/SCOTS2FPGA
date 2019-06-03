@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4_AR67478_AR66782_AR66772_AR66092_AR65813_ar68397_cr964221_2015_4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412968 on Wed Nov 18 10:19:19 MST 2015
+# Start of session at: Sat May 25 13:55:43 2019
+# Process ID: 7988
+# Current directory: D:/Desktop/new_files/dcdc_converted_2_to_1/new_converted.runs/synth_1
+# Command line: vivado.exe -log bddWrapper.vds -mode batch -messageDb vivado.pb -notrace -source bddWrapper.tcl
+# Log file: D:/Desktop/new_files/dcdc_converted_2_to_1/new_converted.runs/synth_1/bddWrapper.vds
+# Journal file: D:/Desktop/new_files/dcdc_converted_2_to_1/new_converted.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source bddWrapper.tcl -notrace

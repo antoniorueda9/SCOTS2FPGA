@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- National Instruments recommends that you do not change this CLIP declaration file outside of the Configure Component-Level IP wizard. You can modify this declaration file on the Component-Level IP page of the FPGA Target Properties dialog box. -->
+
+
+
+<CLIPDeclaration Name="bddWrapper_Wrapper">
+  <FormatVersion>4.3</FormatVersion>
+  <Description/>
+ 	<TopLevelEntityAndArchitecture>
+		  <SynthesisModel>
+			   <Entity>bddWrapper_Wrapper</Entity>
+			   <Architecture>Behavioral</Architecture>
+		  </SynthesisModel>
+    <SimulationModel>
+		   <Entity>bddWrapper_Wrapper</Entity>
+		   <Architecture>Behavioral</Architecture>
+</SimulationModel>
+ 	</TopLevelEntityAndArchitecture>
+  
+  <SupportedDeviceFamilies>Zynq
+</SupportedDeviceFamilies>
+  
+  <InterfaceList>
+    <Interface Name="LabVIEW">
+      <InterfaceType>LabVIEW</InterfaceType>
+      <SignalList>
+        <Signal Name="x0">
+          <HDLName>x0</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x1">
+          <HDLName>x1</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x2">
+          <HDLName>x2</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x3">
+          <HDLName>x3</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x4">
+          <HDLName>x4</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x5">
+          <HDLName>x5</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x6">
+          <HDLName>x6</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x7">
+          <HDLName>x7</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x8">
+          <HDLName>x8</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x9">
+          <HDLName>x9</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x10">
+          <HDLName>x10</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x11">
+          <HDLName>x11</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x12">
+          <HDLName>x12</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x13">
+          <HDLName>x13</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x14">
+          <HDLName>x14</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="x15">
+          <HDLName>x15</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>ToCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+        <Signal Name="f0">
+          <HDLName>f0</HDLName>
+          <HDLType>STD_LOGIC</HDLType>
+          <Direction>FromCLIP</Direction>
+          <SignalType>data</SignalType>
+          <Description/>
+          <DataType>
+            <Boolean/>
+  </DataType>
+          <UseInLabVIEWSingleCycleTimedLoop>Allowed</UseInLabVIEWSingleCycleTimedLoop></Signal>
+      </SignalList>
+    </Interface>
+  </InterfaceList>
+  <ImplementationList>
+    <Path Name="bddWrapper_Wrapper.vhd">
+      <TopLevel/>
+      <MD5>d06647126ce98f41d55c8d0e6ac79452</MD5>
+      <SimulationFileList>
+        <SimulationModelType>Same as synthesis</SimulationModelType>
+    </SimulationFileList> 
+</Path>
+    <Path Name="new_converted.runs\synth_1\bddWrapper.dcp">
+  
+      <MD5>d7ff9bafdbcd799842f95f0a945c9d70</MD5>
+      <SimulationFileList>
+        <SimulationModelType>Exclude from simulation model</SimulationModelType>
+    </SimulationFileList> 
+</Path>
+</ImplementationList>
+  <NumberOfDCMsNeeded>0</NumberOfDCMsNeeded>
+  <NumberOfMMCMsNeeded>0</NumberOfMMCMsNeeded>
+  <NumberOfBufGsNeeded>0</NumberOfBufGsNeeded>
+  
+
+
+</CLIPDeclaration>
