@@ -1,0 +1,45 @@
+
+A path planning problem for a vehicle using the bycicle model based on the BDD
+data structure
+
+0. To run this example, you need to the Cudd libarary installed. Please see the
+   manual for installation notes
+
+1. edit the Makefile 
+   adjust the compiler to your programming environment
+
+
+2. compile the vehicle.cc and simulate.cc
+   $ make
+   in a terminal
+
+3. execute 
+
+  $./vehicle
+
+  which produces
+
+  ./controller.scs
+  ./controller.bdd
+  ./obstacles.scs
+  ./obstacles.bdd
+  ./target.scs
+  ./target.bdd
+
+4. simulate the closed loop by running
+
+  $./simulate
+
+5. simulate the closed loop in MATLAB 
+  a) you need to compile the mexfile first (see the readme in $(SCOTSROOT)/mfiles/mexfiles )
+  b) in Matlab add the path and run the simulation 
+   >> addpath(genpath('../../mfiles'))
+   >> vehicle
+
+5. information on the example are found in
+
+- Reissig, G., Weber, A., & Rungger, M. (2015). Feedback Refinement Relations
+  for the Synthesis of Symbolic Controllers. arXiv preprint arXiv:1503.03715.
+- Zamani, M., Pola, G., Mazo, M., & Tabuada, P. (2012). Symbolic models for
+  nonlinear control systems without stability assumptions. IEEE TAC, 57(7),
+  1804-1809.

@@ -1,0 +1,1 @@
+/usr/bin/c++  -pipe -std=c++11 -Wall -Wextra -m64 -Wall -O3 -DNRELEASE -DSCOTS_BDD  -rdynamic CMakeFiles/scots_opt_lis.dir/scots_opt_lis.cc.o  -o scots_opt_lis -lcudd 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -std=c++11 -DSCOTS_BDD -D_GLIBCXX_ASSERTIONS -fvar-tracking -g3  -rdynamic CMakeFiles/generate_blif_whole.dir/generate_blif_whole.cc.o  -o generate_blif_whole -lcudd 

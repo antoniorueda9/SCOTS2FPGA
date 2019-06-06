@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/antonio/Escritorio/Project_2/src/wrapper.cc
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+algorithm
+-
+vector
+-
+wrapper.hh
+/home/antonio/Escritorio/Project_2/src/wrapper.hh
+
+/home/antonio/Escritorio/Project_2/src/wrapper.hh
+cctype
+-
+iterator
+-
+cstring
+-
+time.h
+-
+

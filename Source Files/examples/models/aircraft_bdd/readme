@@ -1,0 +1,31 @@
+
+An aircraft landing maneuver taken from https://arxiv.org/abs/1503.03715 
+
+
+0. To run this example, you need to the Cudd libarary installed. Please see the
+   manual for installation notes
+
+1. edit the Makefile 
+   adjust the compiler to your programming environment
+
+
+2. compile the aircraft.cc and simulate.cc file 
+   you should be able to compile the program simply by running 
+   $ make
+   in a terminal
+
+3. execute 
+  $./aircraft
+  which produces
+  ./controller.scs
+  ./controller.bdd
+
+4. simulate the closed loop by running
+   $./simulate
+
+5. information on the example are found in
+
+- Reissig, G., Weber, A., & Rungger, M. (2015). Feedback Refinement Relations
+  for the Synthesis of Symbolic Controllers. arXiv preprint arXiv:1503.03715.
+- doi: 10.1109/CDC.2015.7403185
+- doi: 10.1109/TAC.2016.2642794

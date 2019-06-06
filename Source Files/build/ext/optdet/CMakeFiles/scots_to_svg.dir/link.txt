@@ -1,0 +1,1 @@
+/usr/bin/c++  -pipe -std=c++11 -Wall -Wextra -m64 -Wall -O3 -DNRELEASE -DSCOTS_BDD  -rdynamic CMakeFiles/scots_to_svg.dir/scots_to_svg.cc.o  -o scots_to_svg -lcudd 
