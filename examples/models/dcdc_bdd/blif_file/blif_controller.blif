@@ -1,0 +1,1756 @@
+.model DD
+.inputs 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+.outputs f0 f1
+.names 2ae8cd29a06
+1
+.names 14 2ae8cd29a06 2ae8cd29a06 2ae8cd29bdd
+11- 1
+0-0 1
+.names 13 2ae8cd29a06 2ae8cd29bdd 2ae8cd2a972
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd2a972 2ae8cd2a973
+11- 1
+0-1 1
+.names 11 2ae8cd2a973 2ae8cd29a06 2ae8cd2a9c3
+11- 1
+0-0 1
+.names 10 2ae8cd2a9c3 2ae8cd29a06 2ae8cd2aa2f
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa2f 2ae8cd2aa30
+11- 1
+0-1 1
+.names 8 2ae8cd2aa30 2ae8cd29a06 2ae8cd2ab07
+11- 1
+0-0 1
+.names 7 2ae8cd29a06 2ae8cd2ab07 2ae8cd2ac31
+11- 1
+0-1 1
+.names 6 2ae8cd29a06 2ae8cd2ac31 2ae8cd2ac32
+11- 1
+0-1 1
+.names 5 2ae8cd29a06 2ae8cd2ac32 2ae8cd2ac33
+11- 1
+0-1 1
+.names 15 2ae8cd29a06 2ae8cd29a06 2ae8cd29bde
+11- 1
+0-0 1
+.names 14 2ae8cd29bde 2ae8cd29a06 2ae8cd29bf4
+11- 1
+0-0 1
+.names 13 2ae8cd29a06 2ae8cd29bf4 2ae8cd2a978
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd2a978 2ae8cd2a979
+11- 1
+0-1 1
+.names 11 2ae8cd2a979 2ae8cd29a06 2ae8cd2a9c7
+11- 1
+0-0 1
+.names 10 2ae8cd2a9c7 2ae8cd29a06 2ae8cd2aa32
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa32 2ae8cd2aa33
+11- 1
+0-1 1
+.names 8 2ae8cd2aa33 2ae8cd29a06 2ae8cd2ab08
+11- 1
+0-0 1
+.names 7 2ae8cd2ab07 2ae8cd2ab08 2ae8cd2ac34
+11- 1
+0-1 1
+.names 13 2ae8cd29a06 2ae8cd29a06 2ae8cd29bdc
+11- 1
+0-0 1
+.names 12 2ae8cd29a06 2ae8cd29bdc 2ae8cd2a97e
+11- 1
+0-1 1
+.names 11 2ae8cd2a97e 2ae8cd29a06 2ae8cd2a9cb
+11- 1
+0-0 1
+.names 10 2ae8cd2a9cb 2ae8cd29a06 2ae8cd2aa35
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa35 2ae8cd2aa36
+11- 1
+0-1 1
+.names 8 2ae8cd2aa36 2ae8cd29a06 2ae8cd2ab09
+11- 1
+0-0 1
+.names 7 2ae8cd2ab08 2ae8cd2ab09 2ae8cd2ac35
+11- 1
+0-1 1
+.names 6 2ae8cd2ac34 2ae8cd2ac35 2ae8cd2ac36
+11- 1
+0-1 1
+.names 14 2ae8cd29a06 2ae8cd29bde 2ae8cd29bdf
+11- 1
+0-1 1
+.names 13 2ae8cd29bdf 2ae8cd29a06 2ae8cd2a983
+11- 1
+0-0 1
+.names 12 2ae8cd29a06 2ae8cd2a983 2ae8cd2a984
+11- 1
+0-1 1
+.names 11 2ae8cd2a984 2ae8cd29a06 2ae8cd2a9cf
+11- 1
+0-0 1
+.names 10 2ae8cd2a9cf 2ae8cd29a06 2ae8cd2aa38
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa38 2ae8cd2aa39
+11- 1
+0-1 1
+.names 8 2ae8cd2aa39 2ae8cd29a06 2ae8cd2ab0a
+11- 1
+0-0 1
+.names 13 2ae8cd29bdd 2ae8cd29a06 2ae8cd2a989
+11- 1
+0-0 1
+.names 12 2ae8cd29a06 2ae8cd2a989 2ae8cd2a98a
+11- 1
+0-1 1
+.names 11 2ae8cd2a98a 2ae8cd29a06 2ae8cd2a9d3
+11- 1
+0-0 1
+.names 10 2ae8cd2a9d3 2ae8cd29a06 2ae8cd2aa3b
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa3b 2ae8cd2aa3c
+11- 1
+0-1 1
+.names 8 2ae8cd2aa3c 2ae8cd29a06 2ae8cd2ab0b
+11- 1
+0-0 1
+.names 7 2ae8cd2ab0a 2ae8cd2ab0b 2ae8cd2ac37
+11- 1
+0-1 1
+.names 6 2ae8cd2ab0a 2ae8cd2ac37 2ae8cd2ac38
+11- 1
+0-1 1
+.names 5 2ae8cd2ac36 2ae8cd2ac38 2ae8cd2ac39
+11- 1
+0-1 1
+.names 4 2ae8cd2ac33 2ae8cd2ac39 2ae8cd2ac3a
+11- 1
+0-1 1
+.names 3 2ae8cd29a06 2ae8cd2ac3a 2ae8cd2ac3b
+11- 1
+0-1 1
+.names 2 2ae8cd29a06 2ae8cd2ac3b 2ae8cd2ac3c
+11- 1
+0-1 1
+.names 13 2ae8cd29bf4 2ae8cd29a06 2ae8cd29c0d
+11- 1
+0-0 1
+.names 12 2ae8cd29a06 2ae8cd29c0d 2ae8cd2a98f
+11- 1
+0-1 1
+.names 11 2ae8cd2a98f 2ae8cd29a06 2ae8cd2a9d7
+11- 1
+0-0 1
+.names 10 2ae8cd2a9d7 2ae8cd29a06 2ae8cd2aa3e
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa3e 2ae8cd2aa3f
+11- 1
+0-1 1
+.names 8 2ae8cd2aa3f 2ae8cd29a06 2ae8cd2ab0c
+11- 1
+0-0 1
+.names 7 2ae8cd2ab0b 2ae8cd2ab0c 2ae8cd2ac3d
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd29a06 2ae8cd29bdb
+11- 1
+0-0 1
+.names 11 2ae8cd29bdb 2ae8cd29a06 2ae8cd2a9db
+11- 1
+0-0 1
+.names 10 2ae8cd2a9db 2ae8cd29a06 2ae8cd2aa41
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa41 2ae8cd2aa42
+11- 1
+0-1 1
+.names 8 2ae8cd2aa42 2ae8cd29a06 2ae8cd2ab0d
+11- 1
+0-0 1
+.names 7 2ae8cd2ab0c 2ae8cd2ab0d 2ae8cd2ac3e
+11- 1
+0-1 1
+.names 6 2ae8cd2ac3d 2ae8cd2ac3e 2ae8cd2ac3f
+11- 1
+0-1 1
+.names 13 2ae8cd29a06 2ae8cd29bdf 2ae8cd29be0
+11- 1
+0-1 1
+.names 12 2ae8cd29be0 2ae8cd29a06 2ae8cd2a998
+11- 1
+0-0 1
+.names 11 2ae8cd2a998 2ae8cd29a06 2ae8cd2a9df
+11- 1
+0-0 1
+.names 10 2ae8cd2a9df 2ae8cd29a06 2ae8cd2aa44
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa44 2ae8cd2aa45
+11- 1
+0-1 1
+.names 8 2ae8cd2aa45 2ae8cd29a06 2ae8cd2ab0e
+11- 1
+0-0 1
+.names 5 2ae8cd2ac3f 2ae8cd2ab0e 2ae8cd2ac40
+11- 1
+0-1 1
+.names 12 2ae8cd2a972 2ae8cd29a06 2ae8cd2a99d
+11- 1
+0-0 1
+.names 11 2ae8cd2a99d 2ae8cd29a06 2ae8cd2a9e3
+11- 1
+0-0 1
+.names 10 2ae8cd2a9e3 2ae8cd29a06 2ae8cd2aa47
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa47 2ae8cd2aa48
+11- 1
+0-1 1
+.names 8 2ae8cd2aa48 2ae8cd29a06 2ae8cd2ab0f
+11- 1
+0-0 1
+.names 7 2ae8cd2ab0e 2ae8cd2ab0f 2ae8cd2ac41
+11- 1
+0-1 1
+.names 12 2ae8cd2a978 2ae8cd29a06 2ae8cd2a9a2
+11- 1
+0-0 1
+.names 11 2ae8cd2a9a2 2ae8cd29a06 2ae8cd2a9e7
+11- 1
+0-0 1
+.names 10 2ae8cd2a9e7 2ae8cd29a06 2ae8cd2aa4a
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa4a 2ae8cd2aa4b
+11- 1
+0-1 1
+.names 8 2ae8cd2aa4b 2ae8cd29a06 2ae8cd2ab10
+11- 1
+0-0 1
+.names 7 2ae8cd2ab0f 2ae8cd2ab10 2ae8cd2ac42
+11- 1
+0-1 1
+.names 6 2ae8cd2ac41 2ae8cd2ac42 2ae8cd2ac43
+11- 1
+0-1 1
+.names 12 2ae8cd29bdc 2ae8cd29a06 2ae8cd2a9a7
+11- 1
+0-0 1
+.names 11 2ae8cd2a9a7 2ae8cd29a06 2ae8cd2a9eb
+11- 1
+0-0 1
+.names 10 2ae8cd2a9eb 2ae8cd29a06 2ae8cd2aa4d
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa4d 2ae8cd2aa4e
+11- 1
+0-1 1
+.names 8 2ae8cd2aa4e 2ae8cd29a06 2ae8cd2ab11
+11- 1
+0-0 1
+.names 5 2ae8cd2ac43 2ae8cd2ab11 2ae8cd2ac44
+11- 1
+0-1 1
+.names 4 2ae8cd2ac40 2ae8cd2ac44 2ae8cd2ac45
+11- 1
+0-1 1
+.names 12 2ae8cd2a983 2ae8cd29a06 2ae8cd2a9ac
+11- 1
+0-0 1
+.names 11 2ae8cd2a9ac 2ae8cd29a06 2ae8cd2a9ef
+11- 1
+0-0 1
+.names 10 2ae8cd2a9ef 2ae8cd29a06 2ae8cd2aa50
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa50 2ae8cd2aa51
+11- 1
+0-1 1
+.names 8 2ae8cd2aa51 2ae8cd29a06 2ae8cd2ab12
+11- 1
+0-0 1
+.names 7 2ae8cd2ab11 2ae8cd2ab12 2ae8cd2ac46
+11- 1
+0-1 1
+.names 12 2ae8cd2a989 2ae8cd29a06 2ae8cd2a9b1
+11- 1
+0-0 1
+.names 11 2ae8cd2a9b1 2ae8cd29a06 2ae8cd2a9f3
+11- 1
+0-0 1
+.names 10 2ae8cd2a9f3 2ae8cd29a06 2ae8cd2aa53
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2aa53 2ae8cd2aa54
+11- 1
+0-1 1
+.names 8 2ae8cd2aa54 2ae8cd29a06 2ae8cd2ab13
+11- 1
+0-0 1
+.names 7 2ae8cd2ab12 2ae8cd2ab13 2ae8cd2ac47
+11- 1
+0-1 1
+.names 6 2ae8cd2ac46 2ae8cd2ac47 2ae8cd2ac48
+11- 1
+0-1 1
+.names 12 2ae8cd29c0d 2ae8cd29a06 2ae8cd29c36
+11- 1
+0-0 1
+.names 11 2ae8cd29c36 2ae8cd29a06 2ae8cd29c77
+11- 1
+0-0 1
+.names 10 2ae8cd29c77 2ae8cd29a06 2ae8cd29cd8
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd29cd8 2ae8cd2aa56
+11- 1
+0-1 1
+.names 8 2ae8cd2aa56 2ae8cd29a06 2ae8cd2ab14
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd2a9d3 2ae8cd2a9d4
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd29bdb 2ae8cd2a994
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a994 2ae8cd2a995
+11- 1
+0-1 1
+.names 9 2ae8cd2a9d4 2ae8cd2a995 2ae8cd2ac49
+11- 1
+0-0 1
+.names 8 2ae8cd2aa56 2ae8cd2ac49 2ae8cd2ac4a
+11- 1
+0-0 1
+.names 6 2ae8cd2ab14 2ae8cd2ac4a 2ae8cd2ac4b
+11- 1
+0-1 1
+.names 5 2ae8cd2ac48 2ae8cd2ac4b 2ae8cd2ac4c
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd29a06 2ae8cd29bd8
+11- 1
+0-0 1
+.names 8 2ae8cd29bd8 2ae8cd2ac49 2ae8cd2ac4d
+11- 1
+0-0 1
+.names 7 2ae8cd2ac4a 2ae8cd2ac4d 2ae8cd2ac4e
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd29be0 2ae8cd29be1
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd29be1 2ae8cd29be2
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd29be2 2ae8cd29be3
+11- 1
+0-1 1
+.names 9 2ae8cd29be3 2ae8cd29a06 2ae8cd2aa59
+11- 1
+0-0 1
+.names 8 2ae8cd2aa59 2ae8cd2ac49 2ae8cd2ac4f
+11- 1
+0-0 1
+.names 7 2ae8cd2ac4d 2ae8cd2ac4f 2ae8cd2ac50
+11- 1
+0-1 1
+.names 6 2ae8cd2ac4e 2ae8cd2ac50 2ae8cd2ac51
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a973 2ae8cd2a974
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a974 2ae8cd2a975
+11- 1
+0-1 1
+.names 9 2ae8cd2a975 2ae8cd29a06 2ae8cd2aa5b
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd2a9db 2ae8cd2a9dc
+11- 1
+0-1 1
+.names 9 2ae8cd2a9dc 2ae8cd2a995 2ae8cd2ac52
+11- 1
+0-0 1
+.names 8 2ae8cd2aa5b 2ae8cd2ac52 2ae8cd2ac53
+11- 1
+0-0 1
+.names 8 2ae8cd2aa5b 2ae8cd2ac49 2ae8cd2ac54
+11- 1
+0-0 1
+.names 7 2ae8cd2ac54 2ae8cd2ac53 2ae8cd2ac55
+11- 1
+0-1 1
+.names 6 2ae8cd2ac53 2ae8cd2ac55 2ae8cd2ac56
+11- 1
+0-1 1
+.names 5 2ae8cd2ac51 2ae8cd2ac56 2ae8cd2ac57
+11- 1
+0-1 1
+.names 4 2ae8cd2ac4c 2ae8cd2ac57 2ae8cd2ac58
+11- 1
+0-1 1
+.names 3 2ae8cd2ac45 2ae8cd2ac58 2ae8cd2ac59
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9df 2ae8cd2a9e0
+11- 1
+0-1 1
+.names 9 2ae8cd2a9e0 2ae8cd2a995 2ae8cd2ac5a
+11- 1
+0-0 1
+.names 8 2ae8cd2aa5b 2ae8cd2ac5a 2ae8cd2ac5b
+11- 1
+0-0 1
+.names 7 2ae8cd2ac53 2ae8cd2ac5b 2ae8cd2ac5c
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a979 2ae8cd2a97a
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a97a 2ae8cd2a97b
+11- 1
+0-1 1
+.names 9 2ae8cd2a97b 2ae8cd29a06 2ae8cd2aa5d
+11- 1
+0-0 1
+.names 8 2ae8cd2aa5d 2ae8cd2ac5a 2ae8cd2ac5d
+11- 1
+0-0 1
+.names 7 2ae8cd2ac5b 2ae8cd2ac5d 2ae8cd2ac5e
+11- 1
+0-1 1
+.names 6 2ae8cd2ac5c 2ae8cd2ac5e 2ae8cd2ac5f
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a97e 2ae8cd2a97f
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a97f 2ae8cd2a980
+11- 1
+0-1 1
+.names 9 2ae8cd2a980 2ae8cd29a06 2ae8cd2aa5f
+11- 1
+0-0 1
+.names 8 2ae8cd2aa5f 2ae8cd2ac5a 2ae8cd2ac60
+11- 1
+0-0 1
+.names 12 2ae8cd2a972 2ae8cd2a989 2ae8cd2ac61
+11- 1
+0-1 1
+.names 11 2ae8cd2ac61 2ae8cd29a06 2ae8cd2ac62
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd2ac62 2ae8cd2ac63
+11- 1
+0-1 1
+.names 9 2ae8cd2ac63 2ae8cd2a995 2ae8cd2ac64
+11- 1
+0-0 1
+.names 8 2ae8cd2aa5f 2ae8cd2ac64 2ae8cd2ac65
+11- 1
+0-0 1
+.names 7 2ae8cd2ac60 2ae8cd2ac65 2ae8cd2ac66
+11- 1
+0-1 1
+.names 6 2ae8cd2ac66 2ae8cd2ac65 2ae8cd2ac67
+11- 1
+0-1 1
+.names 5 2ae8cd2ac5f 2ae8cd2ac67 2ae8cd2ac68
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9eb 2ae8cd2a9ec
+11- 1
+0-1 1
+.names 9 2ae8cd2a9ec 2ae8cd2a995 2ae8cd2ac69
+11- 1
+0-0 1
+.names 8 2ae8cd2aa5f 2ae8cd2ac69 2ae8cd2ac6a
+11- 1
+0-0 1
+.names 12 2ae8cd2a972 2ae8cd29a06 2ae8cd2ac6b
+11- 1
+0-1 1
+.names 11 2ae8cd2ac6b 2ae8cd29a06 2ae8cd2ac6c
+11- 1
+0-1 1
+.names 10 2ae8cd2ac6c 2ae8cd2a994 2ae8cd2ac6d
+11- 1
+0-1 1
+.names 9 2ae8cd2a9ec 2ae8cd2ac6d 2ae8cd2ac6e
+11- 1
+0-0 1
+.names 8 2ae8cd2aa5f 2ae8cd2ac6e 2ae8cd2ac6f
+11- 1
+0-0 1
+.names 7 2ae8cd2ac6a 2ae8cd2ac6f 2ae8cd2ac70
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a984 2ae8cd2a985
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a985 2ae8cd2a986
+11- 1
+0-1 1
+.names 9 2ae8cd2a986 2ae8cd29a06 2ae8cd2aa61
+11- 1
+0-0 1
+.names 13 2ae8cd29bdf 2ae8cd29bdd 2ae8cd2ac71
+11- 1
+0-0 1
+.names 12 2ae8cd2ac71 2ae8cd29a06 2ae8cd2ac72
+11- 1
+0-0 1
+.names 11 2ae8cd2ac72 2ae8cd29a06 2ae8cd2ac73
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd2ac73 2ae8cd2ac74
+11- 1
+0-1 1
+.names 9 2ae8cd2ac74 2ae8cd2a995 2ae8cd2ac75
+11- 1
+0-0 1
+.names 8 2ae8cd2aa61 2ae8cd2ac75 2ae8cd2ac76
+11- 1
+0-0 1
+.names 7 2ae8cd2ac6a 2ae8cd2ac76 2ae8cd2ac77
+11- 1
+0-1 1
+.names 6 2ae8cd2ac70 2ae8cd2ac77 2ae8cd2ac78
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a98a 2ae8cd2a98b
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a98b 2ae8cd2a98c
+11- 1
+0-1 1
+.names 9 2ae8cd2a98c 2ae8cd29a06 2ae8cd2aa63
+11- 1
+0-0 1
+.names 13 2ae8cd29bdf 2ae8cd29a06 2ae8cd29bfb
+11- 1
+0-1 1
+.names 12 2ae8cd29bfb 2ae8cd29a06 2ae8cd2ac79
+11- 1
+0-0 1
+.names 11 2ae8cd2ac79 2ae8cd29a06 2ae8cd2ac7a
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd2ac7a 2ae8cd2ac7b
+11- 1
+0-1 1
+.names 9 2ae8cd2ac7b 2ae8cd2a995 2ae8cd2ac7c
+11- 1
+0-0 1
+.names 8 2ae8cd2aa63 2ae8cd2ac7c 2ae8cd2ac7d
+11- 1
+0-0 1
+.names 13 2ae8cd29bf4 2ae8cd29a06 2ae8cd2ac7e
+11- 1
+0-1 1
+.names 12 2ae8cd2ac7e 2ae8cd29a06 2ae8cd2ac7f
+11- 1
+0-0 1
+.names 11 2ae8cd2ac7f 2ae8cd29a06 2ae8cd2ac80
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd2ac80 2ae8cd2ac81
+11- 1
+0-1 1
+.names 9 2ae8cd2ac81 2ae8cd2a995 2ae8cd2ac82
+11- 1
+0-0 1
+.names 8 2ae8cd2aa63 2ae8cd2ac82 2ae8cd2ac83
+11- 1
+0-0 1
+.names 7 2ae8cd2ac7d 2ae8cd2ac83 2ae8cd2ac84
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd29a06 2ae8cd29bd9
+11- 1
+0-0 1
+.names 9 2ae8cd29bd9 2ae8cd2a995 2ae8cd2ac85
+11- 1
+0-0 1
+.names 8 2ae8cd2aa63 2ae8cd2ac85 2ae8cd2ac86
+11- 1
+0-0 1
+.names 6 2ae8cd2ac84 2ae8cd2ac86 2ae8cd2ac87
+11- 1
+0-1 1
+.names 5 2ae8cd2ac78 2ae8cd2ac87 2ae8cd2ac88
+11- 1
+0-1 1
+.names 4 2ae8cd2ac68 2ae8cd2ac88 2ae8cd2ac89
+11- 1
+0-1 1
+.names 10 2ae8cd2a9db 2ae8cd29a06 2ae8cd2ac8a
+11- 1
+0-1 1
+.names 9 2ae8cd2a98c 2ae8cd2ac8a 2ae8cd2ac8b
+11- 1
+0-0 1
+.names 13 2ae8cd29a06 2ae8cd29bdd 2ae8cd2ac8c
+11- 1
+0-0 1
+.names 12 2ae8cd2ac8c 2ae8cd29a06 2ae8cd2ac8d
+11- 1
+0-1 1
+.names 11 2ae8cd2ac8d 2ae8cd29a06 2ae8cd2ac8e
+11- 1
+0-1 1
+.names 10 2ae8cd2a994 2ae8cd2ac8e 2ae8cd2ac8f
+11- 1
+0-1 1
+.names 9 2ae8cd2ac8f 2ae8cd2a995 2ae8cd2ac90
+11- 1
+0-1 1
+.names 8 2ae8cd2ac8b 2ae8cd2ac90 2ae8cd2ac91
+11- 1
+0-1 1
+.names 13 2ae8cd29bdd 2ae8cd29bdd 2ae8cd2ac92
+11- 1
+0-0 1
+.names 12 2ae8cd2ac92 2ae8cd29a06 2ae8cd2ac93
+11- 1
+0-1 1
+.names 11 2ae8cd2ac93 2ae8cd29a06 2ae8cd2ac94
+11- 1
+0-1 1
+.names 10 2ae8cd2a994 2ae8cd2ac94 2ae8cd2ac95
+11- 1
+0-1 1
+.names 9 2ae8cd2ac95 2ae8cd2a995 2ae8cd2ac96
+11- 1
+0-1 1
+.names 8 2ae8cd2ac8b 2ae8cd2ac96 2ae8cd2ac97
+11- 1
+0-1 1
+.names 7 2ae8cd2ac91 2ae8cd2ac97 2ae8cd2ac98
+11- 1
+0-1 1
+.names 12 2ae8cd2ac71 2ae8cd29a06 2ae8cd2ac99
+11- 1
+0-1 1
+.names 11 2ae8cd2ac99 2ae8cd29a06 2ae8cd2ac9a
+11- 1
+0-1 1
+.names 10 2ae8cd2a994 2ae8cd2ac9a 2ae8cd2ac9b
+11- 1
+0-1 1
+.names 9 2ae8cd2ac9b 2ae8cd2a995 2ae8cd2ac9c
+11- 1
+0-1 1
+.names 8 2ae8cd2ac8b 2ae8cd2ac9c 2ae8cd2ac9d
+11- 1
+0-1 1
+.names 10 2ae8cd2a994 2ae8cd2a9e3 2ae8cd2ac9e
+11- 1
+0-0 1
+.names 9 2ae8cd2ac9e 2ae8cd2a995 2ae8cd2ac9f
+11- 1
+0-1 1
+.names 8 2ae8cd2ac8b 2ae8cd2ac9f 2ae8cd2aca0
+11- 1
+0-1 1
+.names 7 2ae8cd2ac9d 2ae8cd2aca0 2ae8cd2aca1
+11- 1
+0-1 1
+.names 6 2ae8cd2ac98 2ae8cd2aca1 2ae8cd2aca2
+11- 1
+0-1 1
+.names 9 2ae8cd2a995 2ae8cd2ac8a 2ae8cd2aca3
+11- 1
+0-0 1
+.names 10 2ae8cd2a97f 2ae8cd2a9e3 2ae8cd2aca4
+11- 1
+0-0 1
+.names 9 2ae8cd2aca4 2ae8cd2a995 2ae8cd2aca5
+11- 1
+0-1 1
+.names 8 2ae8cd2aca3 2ae8cd2aca5 2ae8cd2aca6
+11- 1
+0-1 1
+.names 13 2ae8cd29bdd 2ae8cd29a06 2ae8cd2aca7
+11- 1
+0-1 1
+.names 12 2ae8cd2aca7 2ae8cd29a06 2ae8cd2aca8
+11- 1
+0-0 1
+.names 11 2ae8cd2aca8 2ae8cd29a06 2ae8cd2aca9
+11- 1
+0-0 1
+.names 10 2ae8cd2aca9 2ae8cd29a06 2ae8cd2acaa
+11- 1
+0-1 1
+.names 9 2ae8cd2a995 2ae8cd2acaa 2ae8cd2acab
+11- 1
+0-0 1
+.names 12 2ae8cd29a06 2ae8cd2ac8c 2ae8cd2acac
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2acac 2ae8cd2acad
+11- 1
+0-1 1
+.names 10 2ae8cd2acad 2ae8cd2a9eb 2ae8cd2acae
+11- 1
+0-0 1
+.names 9 2ae8cd2acae 2ae8cd2a995 2ae8cd2acaf
+11- 1
+0-1 1
+.names 8 2ae8cd2acab 2ae8cd2acaf 2ae8cd2acb0
+11- 1
+0-1 1
+.names 7 2ae8cd2aca6 2ae8cd2acb0 2ae8cd2acb1
+11- 1
+0-1 1
+.names 8 2ae8cd2aca3 2ae8cd2acaf 2ae8cd2acb2
+11- 1
+0-1 1
+.names 13 2ae8cd29a06 2ae8cd29bf4 2ae8cd29bf5
+11- 1
+0-0 1
+.names 12 2ae8cd29bf5 2ae8cd29a06 2ae8cd2acb3
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2acb3 2ae8cd2acb4
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2acb4 2ae8cd2acb5
+11- 1
+0-1 1
+.names 9 2ae8cd2acae 2ae8cd2acb5 2ae8cd2acb6
+11- 1
+0-1 1
+.names 8 2ae8cd2aca3 2ae8cd2acb6 2ae8cd2acb7
+11- 1
+0-1 1
+.names 7 2ae8cd2acb2 2ae8cd2acb7 2ae8cd2acb8
+11- 1
+0-1 1
+.names 6 2ae8cd2acb1 2ae8cd2acb8 2ae8cd2acb9
+11- 1
+0-1 1
+.names 5 2ae8cd2aca2 2ae8cd2acb9 2ae8cd2acba
+11- 1
+0-1 1
+.names 10 2ae8cd2a9eb 2ae8cd29a06 2ae8cd2acbb
+11- 1
+0-1 1
+.names 9 2ae8cd2a995 2ae8cd2acbb 2ae8cd2acbc
+11- 1
+0-0 1
+.names 12 2ae8cd2aca7 2ae8cd29a06 2ae8cd2acbd
+11- 1
+0-1 1
+.names 11 2ae8cd2acbd 2ae8cd29a06 2ae8cd2acbe
+11- 1
+0-1 1
+.names 10 2ae8cd2acad 2ae8cd2acbe 2ae8cd2acbf
+11- 1
+0-1 1
+.names 9 2ae8cd2acbf 2ae8cd2a995 2ae8cd2acc0
+11- 1
+0-1 1
+.names 8 2ae8cd2acbc 2ae8cd2acc0 2ae8cd2acc1
+11- 1
+0-1 1
+.names 10 2ae8cd2acad 2ae8cd29a06 2ae8cd2acc2
+11- 1
+0-1 1
+.names 9 2ae8cd2acc2 2ae8cd2a995 2ae8cd2acc3
+11- 1
+0-1 1
+.names 8 2ae8cd2acbc 2ae8cd2acc3 2ae8cd2acc4
+11- 1
+0-1 1
+.names 7 2ae8cd2acc1 2ae8cd2acc4 2ae8cd2acc5
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a995 2ae8cd2a996
+11- 1
+0-1 1
+.names 8 2ae8cd2acbc 2ae8cd2a996 2ae8cd2acc6
+11- 1
+0-1 1
+.names 10 2ae8cd2a9f3 2ae8cd29a06 2ae8cd2acc7
+11- 1
+0-1 1
+.names 9 2ae8cd2a995 2ae8cd2acc7 2ae8cd2acc8
+11- 1
+0-0 1
+.names 8 2ae8cd2acc8 2ae8cd2a996 2ae8cd2acc9
+11- 1
+0-1 1
+.names 7 2ae8cd2acc6 2ae8cd2acc9 2ae8cd2acca
+11- 1
+0-1 1
+.names 6 2ae8cd2acc5 2ae8cd2acca 2ae8cd2accb
+11- 1
+0-1 1
+.names 9 2ae8cd2a995 2ae8cd29bd9 2ae8cd2accc
+11- 1
+0-1 1
+.names 8 2ae8cd2accc 2ae8cd2a996 2ae8cd2accd
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2ac8e 2ae8cd2acce
+11- 1
+0-1 1
+.names 9 2ae8cd2acce 2ae8cd2a995 2ae8cd2accf
+11- 1
+0-1 1
+.names 8 2ae8cd2accc 2ae8cd2accf 2ae8cd2acd0
+11- 1
+0-1 1
+.names 7 2ae8cd2accd 2ae8cd2acd0 2ae8cd2acd1
+11- 1
+0-1 1
+.names 6 2ae8cd2acc9 2ae8cd2acd1 2ae8cd2acd2
+11- 1
+0-1 1
+.names 5 2ae8cd2accb 2ae8cd2acd2 2ae8cd2acd3
+11- 1
+0-1 1
+.names 4 2ae8cd2acba 2ae8cd2acd3 2ae8cd2acd4
+11- 1
+0-1 1
+.names 3 2ae8cd2ac89 2ae8cd2acd4 2ae8cd2acd5
+11- 1
+0-1 1
+.names 2 2ae8cd2ac59 2ae8cd2acd5 2ae8cd2acd6
+11- 1
+0-1 1
+.names 1 2ae8cd2ac3c 2ae8cd2acd6 2ae8cd2acd7
+11- 1
+0-1 1
+.names 9 2ae8cd2a995 2ae8cd29a06 2ae8cd2acd8
+11- 1
+0-1 1
+.names 8 2ae8cd2acd8 2ae8cd2accf 2ae8cd2acd9
+11- 1
+0-1 1
+.names 8 2ae8cd2acd8 2ae8cd2a996 2ae8cd2acda
+11- 1
+0-1 1
+.names 14 2ae8cd29bde 2ae8cd29a06 2ae8cd29bed
+11- 1
+0-1 1
+.names 13 2ae8cd29bed 2ae8cd29a06 2ae8cd29c07
+11- 1
+0-1 1
+.names 12 2ae8cd29c07 2ae8cd29a06 2ae8cd29c31
+11- 1
+0-1 1
+.names 11 2ae8cd29c31 2ae8cd29a06 2ae8cd29c73
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd29c73 2ae8cd29c74
+11- 1
+0-1 1
+.names 9 2ae8cd29c74 2ae8cd2a995 2ae8cd2acdb
+11- 1
+0-1 1
+.names 8 2ae8cd2acd8 2ae8cd2acdb 2ae8cd2acdc
+11- 1
+0-1 1
+.names 7 2ae8cd2acda 2ae8cd2acdc 2ae8cd2acdd
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd2a972 2ae8cd2acde
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2acde 2ae8cd2acdf
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2acdf 2ae8cd2ace0
+11- 1
+0-1 1
+.names 9 2ae8cd2ace0 2ae8cd29a06 2ae8cd2ace1
+11- 1
+0-1 1
+.names 10 2ae8cd29be2 2ae8cd2acbe 2ae8cd2ace2
+11- 1
+0-1 1
+.names 9 2ae8cd2ace2 2ae8cd2a995 2ae8cd2ace3
+11- 1
+0-1 1
+.names 8 2ae8cd2ace1 2ae8cd2ace3 2ae8cd2ace4
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2acbe 2ae8cd2ace5
+11- 1
+0-1 1
+.names 9 2ae8cd2ace5 2ae8cd2a995 2ae8cd2ace6
+11- 1
+0-1 1
+.names 8 2ae8cd2ace1 2ae8cd2ace6 2ae8cd2ace7
+11- 1
+0-1 1
+.names 7 2ae8cd2ace4 2ae8cd2ace7 2ae8cd2ace8
+11- 1
+0-1 1
+.names 6 2ae8cd2acdd 2ae8cd2ace8 2ae8cd2ace9
+11- 1
+0-1 1
+.names 5 2ae8cd2acd9 2ae8cd2ace9 2ae8cd2acea
+11- 1
+0-1 1
+.names 8 2ae8cd2ace1 2ae8cd2a996 2ae8cd2aceb
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd29bdc 2ae8cd2acec
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2acec 2ae8cd2aced
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2aced 2ae8cd2acee
+11- 1
+0-1 1
+.names 9 2ae8cd2acee 2ae8cd29a06 2ae8cd2acef
+11- 1
+0-1 1
+.names 8 2ae8cd2acef 2ae8cd2a996 2ae8cd2acf0
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd29be0 2ae8cd2acf1
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2acf1 2ae8cd2acf2
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2acf2 2ae8cd2acf3
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2acf3 2ae8cd2acf4
+11- 1
+0-1 1
+.names 8 2ae8cd2acef 2ae8cd2acf4 2ae8cd2acf5
+11- 1
+0-1 1
+.names 7 2ae8cd2acf0 2ae8cd2acf5 2ae8cd2acf6
+11- 1
+0-1 1
+.names 6 2ae8cd2aceb 2ae8cd2acf6 2ae8cd2acf7
+11- 1
+0-1 1
+.names 5 2ae8cd2aceb 2ae8cd2acf7 2ae8cd2acf8
+11- 1
+0-1 1
+.names 4 2ae8cd2acea 2ae8cd2acf8 2ae8cd2acf9
+11- 1
+0-1 1
+.names 12 2ae8cd29be0 2ae8cd29bdc 2ae8cd2acfa
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2acfa 2ae8cd2acfb
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2acfb 2ae8cd2acfc
+11- 1
+0-1 1
+.names 9 2ae8cd2acfc 2ae8cd29a06 2ae8cd2acfd
+11- 1
+0-1 1
+.names 8 2ae8cd2acfd 2ae8cd2acf4 2ae8cd2acfe
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2ace0 2ae8cd2acff
+11- 1
+0-1 1
+.names 8 2ae8cd2acfd 2ae8cd2acff 2ae8cd2ad00
+11- 1
+0-1 1
+.names 7 2ae8cd2acfe 2ae8cd2ad00 2ae8cd2ad01
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd2a978 2ae8cd2ad02
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2ad02 2ae8cd2ad03
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2ad03 2ae8cd2ad04
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2ad04 2ae8cd2ad05
+11- 1
+0-1 1
+.names 8 2ae8cd2acfd 2ae8cd2ad05 2ae8cd2ad06
+11- 1
+0-1 1
+.names 7 2ae8cd2ad00 2ae8cd2ad06 2ae8cd2ad07
+11- 1
+0-1 1
+.names 6 2ae8cd2ad01 2ae8cd2ad07 2ae8cd2ad08
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2acee 2ae8cd2ad09
+11- 1
+0-1 1
+.names 8 2ae8cd2acfd 2ae8cd2ad09 2ae8cd2ad0a
+11- 1
+0-1 1
+.names 7 2ae8cd2ad06 2ae8cd2ad0a 2ae8cd2ad0b
+11- 1
+0-1 1
+.names 12 2ae8cd29be0 2ae8cd2a989 2ae8cd2ad0c
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2ad0c 2ae8cd2ad0d
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2ad0d 2ae8cd2ad0e
+11- 1
+0-1 1
+.names 9 2ae8cd2ad0e 2ae8cd29a06 2ae8cd2ad0f
+11- 1
+0-1 1
+.names 8 2ae8cd2ad0f 2ae8cd2ad09 2ae8cd2ad10
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd2a983 2ae8cd2ad11
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2ad11 2ae8cd2ad12
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2ad12 2ae8cd2ad13
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2ad13 2ae8cd2ad14
+11- 1
+0-1 1
+.names 8 2ae8cd2ad0f 2ae8cd2ad14 2ae8cd2ad15
+11- 1
+0-1 1
+.names 7 2ae8cd2ad10 2ae8cd2ad15 2ae8cd2ad16
+11- 1
+0-1 1
+.names 6 2ae8cd2ad0b 2ae8cd2ad16 2ae8cd2ad17
+11- 1
+0-1 1
+.names 5 2ae8cd2ad08 2ae8cd2ad17 2ae8cd2ad18
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd2a989 2ae8cd2ad19
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2ad19 2ae8cd2ad1a
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2ad1a 2ae8cd2ad1b
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2ad1b 2ae8cd2ad1c
+11- 1
+0-1 1
+.names 8 2ae8cd2ad0f 2ae8cd2ad1c 2ae8cd2ad1d
+11- 1
+0-1 1
+.names 7 2ae8cd2ad15 2ae8cd2ad1d 2ae8cd2ad1e
+11- 1
+0-1 1
+.names 13 2ae8cd29a06 2ae8cd29bed 2ae8cd29bee
+11- 1
+0-1 1
+.names 12 2ae8cd29bee 2ae8cd2a989 2ae8cd2ad1f
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2ad1f 2ae8cd2ad20
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2ad20 2ae8cd2ad21
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2ad21 2ae8cd2ad22
+11- 1
+0-1 1
+.names 8 2ae8cd2ad0f 2ae8cd2ad22 2ae8cd2ad23
+11- 1
+0-1 1
+.names 12 2ae8cd29a06 2ae8cd29c0d 2ae8cd29c0e
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd29c0e 2ae8cd29c0f
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd29c0f 2ae8cd29c10
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd29c10 2ae8cd29c11
+11- 1
+0-1 1
+.names 8 2ae8cd2ad0f 2ae8cd29c11 2ae8cd2ad24
+11- 1
+0-1 1
+.names 7 2ae8cd2ad23 2ae8cd2ad24 2ae8cd2ad25
+11- 1
+0-1 1
+.names 6 2ae8cd2ad1e 2ae8cd2ad25 2ae8cd2ad26
+11- 1
+0-1 1
+.names 8 2ae8cd2ad0f 2ae8cd29a06 2ae8cd2ad27
+11- 1
+0-1 1
+.names 7 2ae8cd2ad24 2ae8cd2ad27 2ae8cd2ad28
+11- 1
+0-1 1
+.names 12 2ae8cd29be0 2ae8cd29a06 2ae8cd29c13
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd29c13 2ae8cd29c14
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd29c14 2ae8cd29c15
+11- 1
+0-1 1
+.names 9 2ae8cd29c15 2ae8cd29a06 2ae8cd29ceb
+11- 1
+0-1 1
+.names 8 2ae8cd29ceb 2ae8cd29a06 2ae8cd29da3
+11- 1
+0-1 1
+.names 6 2ae8cd2ad28 2ae8cd29da3 2ae8cd2ad29
+11- 1
+0-1 1
+.names 5 2ae8cd2ad26 2ae8cd2ad29 2ae8cd2ad2a
+11- 1
+0-1 1
+.names 4 2ae8cd2ad18 2ae8cd2ad2a 2ae8cd2ad2b
+11- 1
+0-1 1
+.names 3 2ae8cd2acf9 2ae8cd2ad2b 2ae8cd2ad2c
+11- 1
+0-1 1
+.names 7 2ae8cd29da3 2ae8cd29a06 2ae8cd2ad2d
+11- 1
+0-1 1
+.names 6 2ae8cd29da3 2ae8cd2ad2d 2ae8cd2ad2e
+11- 1
+0-1 1
+.names 5 2ae8cd2ad2e 2ae8cd29a06 2ae8cd2ad2f
+11- 1
+0-1 1
+.names 4 2ae8cd2ad2f 2ae8cd29a06 2ae8cd2ad30
+11- 1
+0-1 1
+.names 3 2ae8cd2ad30 2ae8cd29a06 2ae8cd2ad31
+11- 1
+0-1 1
+.names 2 2ae8cd2ad2c 2ae8cd2ad31 2ae8cd2ad32
+11- 1
+0-1 1
+.names 1 2ae8cd2ad32 2ae8cd29a06 2ae8cd2ad33
+11- 1
+0-1 1
+.names 0 2ae8cd2acd7 2ae8cd2ad33 2ae8cd2ad34
+11- 1
+0-1 1
+.names 5 2ae8cd2ac48 2ae8cd2ab14 2ae8cd2ad35
+11- 1
+0-1 1
+.names 8 2ae8cd29bd8 2ae8cd29a06 2ae8cd2ab15
+11- 1
+0-0 1
+.names 7 2ae8cd2ab14 2ae8cd2ab15 2ae8cd2ad36
+11- 1
+0-1 1
+.names 8 2ae8cd2aa59 2ae8cd29a06 2ae8cd2ab16
+11- 1
+0-0 1
+.names 7 2ae8cd2ab15 2ae8cd2ab16 2ae8cd2ad37
+11- 1
+0-1 1
+.names 6 2ae8cd2ad36 2ae8cd2ad37 2ae8cd2ad38
+11- 1
+0-1 1
+.names 8 2ae8cd2aa5b 2ae8cd29a06 2ae8cd2ab17
+11- 1
+0-0 1
+.names 5 2ae8cd2ad38 2ae8cd2ab17 2ae8cd2ad39
+11- 1
+0-1 1
+.names 4 2ae8cd2ad35 2ae8cd2ad39 2ae8cd2ad3a
+11- 1
+0-1 1
+.names 3 2ae8cd2ac45 2ae8cd2ad3a 2ae8cd2ad3b
+11- 1
+0-1 1
+.names 8 2ae8cd2aa5d 2ae8cd29a06 2ae8cd2ab18
+11- 1
+0-0 1
+.names 7 2ae8cd2ab17 2ae8cd2ab18 2ae8cd2ad3c
+11- 1
+0-1 1
+.names 6 2ae8cd2ab17 2ae8cd2ad3c 2ae8cd2ad3d
+11- 1
+0-1 1
+.names 8 2ae8cd2aa5f 2ae8cd29a06 2ae8cd2ab19
+11- 1
+0-0 1
+.names 5 2ae8cd2ad3d 2ae8cd2ab19 2ae8cd2ad3e
+11- 1
+0-1 1
+.names 8 2ae8cd2aa61 2ae8cd29a06 2ae8cd2ab1a
+11- 1
+0-0 1
+.names 7 2ae8cd2ab19 2ae8cd2ab1a 2ae8cd2ad3f
+11- 1
+0-1 1
+.names 6 2ae8cd2ab19 2ae8cd2ad3f 2ae8cd2ad40
+11- 1
+0-1 1
+.names 8 2ae8cd2aa63 2ae8cd29a06 2ae8cd2ab1b
+11- 1
+0-0 1
+.names 5 2ae8cd2ad40 2ae8cd2ab1b 2ae8cd2ad41
+11- 1
+0-1 1
+.names 4 2ae8cd2ad3e 2ae8cd2ad41 2ae8cd2ad42
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a98f 2ae8cd2a990
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a990 2ae8cd2a991
+11- 1
+0-1 1
+.names 9 2ae8cd2a991 2ae8cd29a06 2ae8cd2aa65
+11- 1
+0-0 1
+.names 8 2ae8cd2aa65 2ae8cd29a06 2ae8cd2ab1c
+11- 1
+0-0 1
+.names 7 2ae8cd2ab1b 2ae8cd2ab1c 2ae8cd2ad43
+11- 1
+0-1 1
+.names 6 2ae8cd2ab1b 2ae8cd2ad43 2ae8cd2ad44
+11- 1
+0-1 1
+.names 9 2ae8cd2a995 2ae8cd29a06 2ae8cd2aa67
+11- 1
+0-0 1
+.names 8 2ae8cd2aa67 2ae8cd29a06 2ae8cd2ab1d
+11- 1
+0-0 1
+.names 5 2ae8cd2ad44 2ae8cd2ab1d 2ae8cd2ad45
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a998 2ae8cd2a999
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a999 2ae8cd2a99a
+11- 1
+0-1 1
+.names 9 2ae8cd2a99a 2ae8cd29a06 2ae8cd2aa69
+11- 1
+0-0 1
+.names 8 2ae8cd2aa69 2ae8cd29a06 2ae8cd2ab1e
+11- 1
+0-0 1
+.names 7 2ae8cd2ab1d 2ae8cd2ab1e 2ae8cd2ad46
+11- 1
+0-1 1
+.names 6 2ae8cd2ab1d 2ae8cd2ad46 2ae8cd2ad47
+11- 1
+0-1 1
+.names 5 2ae8cd2ad47 2ae8cd2ab1e 2ae8cd2ad48
+11- 1
+0-1 1
+.names 4 2ae8cd2ad45 2ae8cd2ad48 2ae8cd2ad49
+11- 1
+0-1 1
+.names 3 2ae8cd2ad42 2ae8cd2ad49 2ae8cd2ad4a
+11- 1
+0-1 1
+.names 2 2ae8cd2ad3b 2ae8cd2ad4a 2ae8cd2ad4b
+11- 1
+0-1 1
+.names 1 2ae8cd2ac3c 2ae8cd2ad4b 2ae8cd2ad4c
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd29be3 2ae8cd29be4
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd29be4 2ae8cd2ad4d
+11- 1
+0-0 1
+.names 7 2ae8cd2ab1e 2ae8cd2ad4d 2ae8cd2ad4e
+11- 1
+0-1 1
+.names 6 2ae8cd2ab1e 2ae8cd2ad4e 2ae8cd2ad4f
+11- 1
+0-1 1
+.names 5 2ae8cd2ab1e 2ae8cd2ad4f 2ae8cd2ad50
+11- 1
+0-1 1
+.names 4 2ae8cd2ab1e 2ae8cd2ad50 2ae8cd2ad51
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a975 2ae8cd2a976
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a976 2ae8cd2ad52
+11- 1
+0-0 1
+.names 7 2ae8cd2ad4d 2ae8cd2ad52 2ae8cd2ad53
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a97b 2ae8cd2a97c
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a97c 2ae8cd2ad54
+11- 1
+0-0 1
+.names 7 2ae8cd2ad52 2ae8cd2ad54 2ae8cd2ad55
+11- 1
+0-1 1
+.names 6 2ae8cd2ad53 2ae8cd2ad55 2ae8cd2ad56
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a980 2ae8cd2a981
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a981 2ae8cd2ad57
+11- 1
+0-0 1
+.names 7 2ae8cd2ad54 2ae8cd2ad57 2ae8cd2ad58
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a986 2ae8cd2a987
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a987 2ae8cd2ad59
+11- 1
+0-0 1
+.names 7 2ae8cd2ad57 2ae8cd2ad59 2ae8cd2ad5a
+11- 1
+0-1 1
+.names 6 2ae8cd2ad58 2ae8cd2ad5a 2ae8cd2ad5b
+11- 1
+0-1 1
+.names 5 2ae8cd2ad56 2ae8cd2ad5b 2ae8cd2ad5c
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a98c 2ae8cd2a98d
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a98d 2ae8cd2ad5d
+11- 1
+0-0 1
+.names 7 2ae8cd2ad59 2ae8cd2ad5d 2ae8cd2ad5e
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a991 2ae8cd2a992
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a992 2ae8cd2ad5f
+11- 1
+0-0 1
+.names 7 2ae8cd2ad5d 2ae8cd2ad5f 2ae8cd2ad60
+11- 1
+0-1 1
+.names 6 2ae8cd2ad5e 2ae8cd2ad60 2ae8cd2ad61
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a996 2ae8cd2ad62
+11- 1
+0-0 1
+.names 7 2ae8cd2ad5f 2ae8cd2ad62 2ae8cd2ad63
+11- 1
+0-1 1
+.names 6 2ae8cd2ad63 2ae8cd2ad62 2ae8cd2ad64
+11- 1
+0-1 1
+.names 5 2ae8cd2ad61 2ae8cd2ad64 2ae8cd2ad65
+11- 1
+0-1 1
+.names 4 2ae8cd2ad5c 2ae8cd2ad65 2ae8cd2ad66
+11- 1
+0-1 1
+.names 3 2ae8cd2ad51 2ae8cd2ad66 2ae8cd2ad67
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a99a 2ae8cd2a99b
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a99b 2ae8cd2ad68
+11- 1
+0-0 1
+.names 6 2ae8cd2ad62 2ae8cd2ad68 2ae8cd2ad69
+11- 1
+0-1 1
+.names 5 2ae8cd2ad62 2ae8cd2ad69 2ae8cd2ad6a
+11- 1
+0-1 1
+.names 4 2ae8cd2ad62 2ae8cd2ad6a 2ae8cd2ad6b
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a99d 2ae8cd2a99e
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a99e 2ae8cd2a99f
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a99f 2ae8cd2a9a0
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9a0 2ae8cd2ad6c
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2a9a2 2ae8cd2a9a3
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9a3 2ae8cd2a9a4
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9a4 2ae8cd2a9a5
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9a5 2ae8cd2ad6d
+11- 1
+0-0 1
+.names 6 2ae8cd2ad6c 2ae8cd2ad6d 2ae8cd2ad6e
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a9a7 2ae8cd2a9a8
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9a8 2ae8cd2a9a9
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9a9 2ae8cd2a9aa
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9aa 2ae8cd2ad6f
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd2a9ac 2ae8cd2a9ad
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9ad 2ae8cd2a9ae
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9ae 2ae8cd2a9af
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9af 2ae8cd2ad70
+11- 1
+0-0 1
+.names 6 2ae8cd2ad6f 2ae8cd2ad70 2ae8cd2ad71
+11- 1
+0-1 1
+.names 5 2ae8cd2ad6e 2ae8cd2ad71 2ae8cd2ad72
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd2a9b1 2ae8cd2a9b2
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9b2 2ae8cd2a9b3
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9b3 2ae8cd2a9b4
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9b4 2ae8cd2ad73
+11- 1
+0-0 1
+.names 11 2ae8cd29a06 2ae8cd29c36 2ae8cd2a9b6
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9b6 2ae8cd2a9b7
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9b7 2ae8cd2a9b8
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9b8 2ae8cd2ad74
+11- 1
+0-0 1
+.names 6 2ae8cd2ad73 2ae8cd2ad74 2ae8cd2ad75
+11- 1
+0-1 1
+.names 11 2ae8cd29a06 2ae8cd29a06 2ae8cd29bda
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd29bda 2ae8cd2a9ba
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9ba 2ae8cd2a9bb
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9bb 2ae8cd2ad76
+11- 1
+0-0 1
+.names 5 2ae8cd2ad75 2ae8cd2ad76 2ae8cd2ad77
+11- 1
+0-1 1
+.names 4 2ae8cd2ad72 2ae8cd2ad77 2ae8cd2ad78
+11- 1
+0-1 1
+.names 3 2ae8cd2ad6b 2ae8cd2ad78 2ae8cd2ad79
+11- 1
+0-1 1
+.names 2 2ae8cd2ad67 2ae8cd2ad79 2ae8cd2ad7a
+11- 1
+0-1 1
+.names 11 2ae8cd29be1 2ae8cd29a06 2ae8cd2a9bd
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd2a9bd 2ae8cd2a9be
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9be 2ae8cd2a9bf
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9bf 2ae8cd2ad7b
+11- 1
+0-0 1
+.names 7 2ae8cd2ad76 2ae8cd2ad7b 2ae8cd2ad7c
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9c3 2ae8cd2a9c4
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9c4 2ae8cd2a9c5
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9c5 2ae8cd2ad7d
+11- 1
+0-0 1
+.names 7 2ae8cd2ad7b 2ae8cd2ad7d 2ae8cd2ad7e
+11- 1
+0-1 1
+.names 6 2ae8cd2ad7c 2ae8cd2ad7e 2ae8cd2ad7f
+11- 1
+0-1 1
+.names 5 2ae8cd2ad76 2ae8cd2ad7f 2ae8cd2ad80
+11- 1
+0-1 1
+.names 4 2ae8cd2ad76 2ae8cd2ad80 2ae8cd2ad81
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9c7 2ae8cd2a9c8
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9c8 2ae8cd2a9c9
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9c9 2ae8cd2ad82
+11- 1
+0-0 1
+.names 7 2ae8cd2ad7d 2ae8cd2ad82 2ae8cd2ad83
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9cb 2ae8cd2a9cc
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9cc 2ae8cd2a9cd
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9cd 2ae8cd2ad84
+11- 1
+0-0 1
+.names 7 2ae8cd2ad82 2ae8cd2ad84 2ae8cd2ad85
+11- 1
+0-1 1
+.names 6 2ae8cd2ad83 2ae8cd2ad85 2ae8cd2ad86
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9cf 2ae8cd2a9d0
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9d0 2ae8cd2a9d1
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9d1 2ae8cd2ad87
+11- 1
+0-0 1
+.names 7 2ae8cd2ad84 2ae8cd2ad87 2ae8cd2ad88
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9d4 2ae8cd2a9d5
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9d5 2ae8cd2ad89
+11- 1
+0-0 1
+.names 7 2ae8cd2ad87 2ae8cd2ad89 2ae8cd2ad8a
+11- 1
+0-1 1
+.names 6 2ae8cd2ad88 2ae8cd2ad8a 2ae8cd2ad8b
+11- 1
+0-1 1
+.names 5 2ae8cd2ad86 2ae8cd2ad8b 2ae8cd2ad8c
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9d7 2ae8cd2a9d8
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9d8 2ae8cd2a9d9
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9d9 2ae8cd2ad8d
+11- 1
+0-0 1
+.names 7 2ae8cd2ad89 2ae8cd2ad8d 2ae8cd2ad8e
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9dc 2ae8cd2a9dd
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9dd 2ae8cd2ad8f
+11- 1
+0-0 1
+.names 7 2ae8cd2ad8d 2ae8cd2ad8f 2ae8cd2ad90
+11- 1
+0-1 1
+.names 6 2ae8cd2ad8e 2ae8cd2ad90 2ae8cd2ad91
+11- 1
+0-1 1
+.names 5 2ae8cd2ad91 2ae8cd2ad8f 2ae8cd2ad92
+11- 1
+0-1 1
+.names 4 2ae8cd2ad8c 2ae8cd2ad92 2ae8cd2ad93
+11- 1
+0-1 1
+.names 3 2ae8cd2ad81 2ae8cd2ad93 2ae8cd2ad94
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9e0 2ae8cd2a9e1
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9e1 2ae8cd2ad95
+11- 1
+0-0 1
+.names 10 2ae8cd29a06 2ae8cd2a9e3 2ae8cd2a9e4
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9e4 2ae8cd2a9e5
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9e5 2ae8cd2ad96
+11- 1
+0-0 1
+.names 6 2ae8cd2ad95 2ae8cd2ad96 2ae8cd2ad97
+11- 1
+0-1 1
+.names 5 2ae8cd2ad8f 2ae8cd2ad97 2ae8cd2ad98
+11- 1
+0-1 1
+.names 4 2ae8cd2ad8f 2ae8cd2ad98 2ae8cd2ad99
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9e7 2ae8cd2a9e8
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9e8 2ae8cd2a9e9
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9e9 2ae8cd2ad9a
+11- 1
+0-0 1
+.names 9 2ae8cd29a06 2ae8cd2a9ec 2ae8cd2a9ed
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9ed 2ae8cd2ad9b
+11- 1
+0-0 1
+.names 7 2ae8cd2ad9a 2ae8cd2ad9b 2ae8cd2ad9c
+11- 1
+0-1 1
+.names 6 2ae8cd2ad9a 2ae8cd2ad9c 2ae8cd2ad9d
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9ef 2ae8cd2a9f0
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9f0 2ae8cd2a9f1
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9f1 2ae8cd2ad9e
+11- 1
+0-0 1
+.names 7 2ae8cd2ad9b 2ae8cd2ad9e 2ae8cd2ad9f
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd2a9f3 2ae8cd2a9f4
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9f4 2ae8cd2a9f5
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9f5 2ae8cd2ada0
+11- 1
+0-0 1
+.names 7 2ae8cd2ad9e 2ae8cd2ada0 2ae8cd2ada1
+11- 1
+0-1 1
+.names 6 2ae8cd2ad9f 2ae8cd2ada1 2ae8cd2ada2
+11- 1
+0-1 1
+.names 5 2ae8cd2ad9d 2ae8cd2ada2 2ae8cd2ada3
+11- 1
+0-1 1
+.names 10 2ae8cd29a06 2ae8cd29c77 2ae8cd2a9f7
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd2a9f7 2ae8cd2a9f8
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9f8 2ae8cd2ada4
+11- 1
+0-0 1
+.names 7 2ae8cd2ada0 2ae8cd2ada4 2ae8cd2ada5
+11- 1
+0-1 1
+.names 9 2ae8cd29a06 2ae8cd29bd9 2ae8cd2a9fa
+11- 1
+0-1 1
+.names 8 2ae8cd2aa69 2ae8cd2a9fa 2ae8cd2ada6
+11- 1
+0-0 1
+.names 7 2ae8cd2ada4 2ae8cd2ada6 2ae8cd2ada7
+11- 1
+0-1 1
+.names 6 2ae8cd2ada5 2ae8cd2ada7 2ae8cd2ada8
+11- 1
+0-1 1
+.names 5 2ae8cd2ada8 2ae8cd2ada6 2ae8cd2ada9
+11- 1
+0-1 1
+.names 4 2ae8cd2ada3 2ae8cd2ada9 2ae8cd2adaa
+11- 1
+0-1 1
+.names 3 2ae8cd2ad99 2ae8cd2adaa 2ae8cd2adab
+11- 1
+0-1 1
+.names 2 2ae8cd2ad94 2ae8cd2adab 2ae8cd2adac
+11- 1
+0-1 1
+.names 1 2ae8cd2ad7a 2ae8cd2adac 2ae8cd2adad
+11- 1
+0-1 1
+.names 0 2ae8cd2ad4c 2ae8cd2adad 2ae8cd2adae
+11- 1
+0-1 1
+.names 2ae8cd2ad34 f0
+0 1
+.names 2ae8cd2adae f1
+0 1
+.end

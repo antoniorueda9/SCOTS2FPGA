@@ -1,0 +1,55 @@
+USAGE:  ------------------------------------------------------------------ 
+USAGE: |                  BDD Determinizer for SCOTSv2.0        :)\___/(: |
+USAGE: |                       Software version 1.0             {(@)v(@)} |
+USAGE: |                        DCSC, TU Delft, NL              {|~- -~|} |
+USAGE: |            Copyright (C) Dr. Ivan S Zapreev, 2017-2018 {/^'^'^\} |
+USAGE: |  ═════════════════════════════════════════════════════════m-m══  |
+USAGE: |        This software is distributed under GPL 2.0 license        |
+USAGE: |          (GPL stands for GNU General Public License)             |
+USAGE: |          The product comes with ABSOLUTELY NO WARRANTY.          |
+USAGE: |   This is a free software, you are welcome to redistribute it.   |
+USAGE: |                     Running in 64 bit mode!                      |
+USAGE: |                 Build on: Jun 26 2019 12:30:27                   |
+USAGE:  ------------------------------------------------------------------ 
+USAGE: The requested debug level is: 'RESULT', the maximum build level is 'INFO3' the set level is 'RESULT'
+USAGE: Given BDD controller input file: './models/vehicle_bdd/controller'
+USAGE: Given BDD controller output file: './models/vehicle_bdd/blgdet/determinized'
+USAGE: The state-space dimensionality is: 3
+USAGE: The final BDD variable reordering is: NOT NEEDED
+USAGE: The final BDD grid extension is: NOT NEEDED
+USAGE: The final constant scots compression is: NOT NEEDED
+USAGE: The final linear scots compression is: NOT NEEDED
+USAGE: The final constant bdd compression is: NOT NEEDED
+USAGE: The final linear bdd compression is: NOT NEEDED
+USAGE: The determinization algorithm: Local
+USAGE: Started loading controller './models/vehicle_bdd/controller' ...
+USAGE: The controller dimensionality is: 5
+USAGE: The input-space dimensionality is: 2
+USAGE: Loaded controller BDD with 7987 nodes.
+USAGE: Loading controller './models/vehicle_bdd/controller' took 0.0299781 CPU seconds.
+USAGE: Action: 'Loading controller './models/vehicle_bdd/controller'' memory change:
+USAGE: vmsize=+4 Mb, vmpeak=+4 Mb, vmrss=+4 Mb, vmhwm=+4 Mb
+USAGE: Starting the BDD determinization ...
+USAGE: Starting initializing space optimizer ...
+USAGE: Start building determinization tree ...
+USAGE: Bulding determinization tree took 0.789291 CPU seconds.
+USAGE: Action: 'Bulding determinization tree' memory change:
+USAGE: vmsize=+6 Mb, vmpeak=+6 Mb, vmrss=+7 Mb, vmhwm=+7 Mb
+USAGE: Initializing space optimizer took 0.791722 CPU seconds.
+USAGE: Action: 'Initializing space optimizer' memory change:
+USAGE: vmsize=+8 Mb, vmpeak=+8 Mb, vmrss=+8 Mb, vmhwm=+8 Mb
+USAGE: Starting converting binary tree into BDD ...
+USAGE: Converting binary tree into BDD took 0.24885 CPU seconds.
+USAGE: Action: 'Converting binary tree into BDD' memory change:
+USAGE: vmsize=+1 Mb, vmpeak=+0 Mb, vmrss=+1 Mb, vmhwm=+0 Mb
+USAGE: BDD determinization took 1.04402 CPU seconds.
+USAGE: Action: 'BDD determinization' memory change:
+USAGE: vmsize=+8 Mb, vmpeak=+8 Mb, vmrss=+8 Mb, vmhwm=+8 Mb
+RESULT: Resulting controller size, original: #nodes: 4336, #paths: 99513
+USAGE: Storing controller './models/vehicle_bdd/blgdet/determinized' ...
+USAGE: Start storing './models/vehicle_bdd/blgdet/determinized' controller ...
+USAGE: The resulting ./models/vehicle_bdd/blgdet/determinized.bdd size: 11519 bytes
+USAGE: Storing controller took 0.00159414 CPU seconds.
+USAGE: Action: 'Storing controller' memory change:
+USAGE: vmsize=+0 Mb, vmpeak=+0 Mb, vmrss=+0 Mb, vmhwm=+0 Mb
+USAGE: Finished

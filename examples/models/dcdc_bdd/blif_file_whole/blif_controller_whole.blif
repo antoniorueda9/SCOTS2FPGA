@@ -1,0 +1,1847 @@
+.model DD
+.inputs 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+.outputs f0
+.names 2ad28d18f06
+1
+.names 16 2ad28d18f06 2ad28d18f06 2ad28d192a4
+11- 1
+0-0 1
+.names 14 2ad28d18f06 2ad28d192a4 2ad28d192a5
+11- 1
+0-0 1
+.names 13 2ad28d18f06 2ad28d192a5 2ad28d192a6
+11- 1
+0-1 1
+.names 12 2ad28d18f06 2ad28d192a6 2ad28d192a7
+11- 1
+0-1 1
+.names 11 2ad28d192a7 2ad28d192a4 2ad28d192a8
+11- 1
+0-0 1
+.names 10 2ad28d192a8 2ad28d192a4 2ad28d192a9
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192a9 2ad28d192aa
+11- 1
+0-1 1
+.names 8 2ad28d192aa 2ad28d192a4 2ad28d192ab
+11- 1
+0-0 1
+.names 7 2ad28d18f06 2ad28d192ab 2ad28d192ac
+11- 1
+0-1 1
+.names 6 2ad28d18f06 2ad28d192ac 2ad28d192ad
+11- 1
+0-1 1
+.names 5 2ad28d18f06 2ad28d192ad 2ad28d192ae
+11- 1
+0-1 1
+.names 15 2ad28d18f06 2ad28d192a4 2ad28d192af
+11- 1
+0-0 1
+.names 14 2ad28d192af 2ad28d192a4 2ad28d192b0
+11- 1
+0-0 1
+.names 13 2ad28d18f06 2ad28d192b0 2ad28d192b1
+11- 1
+0-1 1
+.names 12 2ad28d18f06 2ad28d192b1 2ad28d192b2
+11- 1
+0-1 1
+.names 11 2ad28d192b2 2ad28d192a4 2ad28d192b3
+11- 1
+0-0 1
+.names 10 2ad28d192b3 2ad28d192a4 2ad28d192b4
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192b4 2ad28d192b5
+11- 1
+0-1 1
+.names 8 2ad28d192b5 2ad28d192a4 2ad28d192b6
+11- 1
+0-0 1
+.names 7 2ad28d192ab 2ad28d192b6 2ad28d192b7
+11- 1
+0-1 1
+.names 13 2ad28d18f06 2ad28d192a4 2ad28d192b8
+11- 1
+0-0 1
+.names 12 2ad28d18f06 2ad28d192b8 2ad28d192b9
+11- 1
+0-1 1
+.names 11 2ad28d192b9 2ad28d192a4 2ad28d192ba
+11- 1
+0-0 1
+.names 10 2ad28d192ba 2ad28d192a4 2ad28d192bb
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192bb 2ad28d192bc
+11- 1
+0-1 1
+.names 8 2ad28d192bc 2ad28d192a4 2ad28d192bd
+11- 1
+0-0 1
+.names 7 2ad28d192b6 2ad28d192bd 2ad28d192be
+11- 1
+0-1 1
+.names 6 2ad28d192b7 2ad28d192be 2ad28d192bf
+11- 1
+0-1 1
+.names 14 2ad28d18f06 2ad28d192af 2ad28d192c0
+11- 1
+0-1 1
+.names 13 2ad28d192c0 2ad28d192a4 2ad28d192c1
+11- 1
+0-0 1
+.names 12 2ad28d18f06 2ad28d192c1 2ad28d192c2
+11- 1
+0-1 1
+.names 11 2ad28d192c2 2ad28d192a4 2ad28d192c3
+11- 1
+0-0 1
+.names 10 2ad28d192c3 2ad28d192a4 2ad28d192c4
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192c4 2ad28d192c5
+11- 1
+0-1 1
+.names 8 2ad28d192c5 2ad28d192a4 2ad28d192c6
+11- 1
+0-0 1
+.names 13 2ad28d192a5 2ad28d192a4 2ad28d192c7
+11- 1
+0-0 1
+.names 12 2ad28d18f06 2ad28d192c7 2ad28d192c8
+11- 1
+0-1 1
+.names 11 2ad28d192c8 2ad28d192a4 2ad28d192c9
+11- 1
+0-0 1
+.names 10 2ad28d192c9 2ad28d192a4 2ad28d192ca
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192ca 2ad28d192cb
+11- 1
+0-1 1
+.names 8 2ad28d192cb 2ad28d192a4 2ad28d192cc
+11- 1
+0-0 1
+.names 7 2ad28d192c6 2ad28d192cc 2ad28d192cd
+11- 1
+0-1 1
+.names 6 2ad28d192c6 2ad28d192cd 2ad28d192ce
+11- 1
+0-1 1
+.names 5 2ad28d192bf 2ad28d192ce 2ad28d192cf
+11- 1
+0-1 1
+.names 4 2ad28d192ae 2ad28d192cf 2ad28d192d0
+11- 1
+0-1 1
+.names 3 2ad28d18f06 2ad28d192d0 2ad28d192d1
+11- 1
+0-1 1
+.names 2 2ad28d18f06 2ad28d192d1 2ad28d192d2
+11- 1
+0-1 1
+.names 13 2ad28d192b0 2ad28d192a4 2ad28d192d3
+11- 1
+0-0 1
+.names 12 2ad28d18f06 2ad28d192d3 2ad28d192d4
+11- 1
+0-1 1
+.names 11 2ad28d192d4 2ad28d192a4 2ad28d192d5
+11- 1
+0-0 1
+.names 10 2ad28d192d5 2ad28d192a4 2ad28d192d6
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192d6 2ad28d192d7
+11- 1
+0-1 1
+.names 8 2ad28d192d7 2ad28d192a4 2ad28d192d8
+11- 1
+0-0 1
+.names 7 2ad28d192cc 2ad28d192d8 2ad28d192d9
+11- 1
+0-1 1
+.names 12 2ad28d18f06 2ad28d192a4 2ad28d192da
+11- 1
+0-0 1
+.names 11 2ad28d192da 2ad28d192a4 2ad28d192db
+11- 1
+0-0 1
+.names 10 2ad28d192db 2ad28d192a4 2ad28d192dc
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192dc 2ad28d192dd
+11- 1
+0-1 1
+.names 8 2ad28d192dd 2ad28d192a4 2ad28d192de
+11- 1
+0-0 1
+.names 7 2ad28d192d8 2ad28d192de 2ad28d192df
+11- 1
+0-1 1
+.names 6 2ad28d192d9 2ad28d192df 2ad28d192e0
+11- 1
+0-1 1
+.names 13 2ad28d18f06 2ad28d192c0 2ad28d192e1
+11- 1
+0-1 1
+.names 12 2ad28d192e1 2ad28d192a4 2ad28d192e2
+11- 1
+0-0 1
+.names 11 2ad28d192e2 2ad28d192a4 2ad28d192e3
+11- 1
+0-0 1
+.names 10 2ad28d192e3 2ad28d192a4 2ad28d192e4
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192e4 2ad28d192e5
+11- 1
+0-1 1
+.names 8 2ad28d192e5 2ad28d192a4 2ad28d192e6
+11- 1
+0-0 1
+.names 5 2ad28d192e0 2ad28d192e6 2ad28d192e7
+11- 1
+0-1 1
+.names 12 2ad28d192a6 2ad28d192a4 2ad28d192e8
+11- 1
+0-0 1
+.names 11 2ad28d192e8 2ad28d192a4 2ad28d192e9
+11- 1
+0-0 1
+.names 10 2ad28d192e9 2ad28d192a4 2ad28d192ea
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192ea 2ad28d192eb
+11- 1
+0-1 1
+.names 8 2ad28d192eb 2ad28d192a4 2ad28d192ec
+11- 1
+0-0 1
+.names 7 2ad28d192e6 2ad28d192ec 2ad28d192ed
+11- 1
+0-1 1
+.names 12 2ad28d192b1 2ad28d192a4 2ad28d192ee
+11- 1
+0-0 1
+.names 11 2ad28d192ee 2ad28d192a4 2ad28d192ef
+11- 1
+0-0 1
+.names 10 2ad28d192ef 2ad28d192a4 2ad28d192f0
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192f0 2ad28d192f1
+11- 1
+0-1 1
+.names 8 2ad28d192f1 2ad28d192a4 2ad28d192f2
+11- 1
+0-0 1
+.names 7 2ad28d192ec 2ad28d192f2 2ad28d192f3
+11- 1
+0-1 1
+.names 6 2ad28d192ed 2ad28d192f3 2ad28d192f4
+11- 1
+0-1 1
+.names 12 2ad28d192b8 2ad28d192a4 2ad28d192f5
+11- 1
+0-0 1
+.names 11 2ad28d192f5 2ad28d192a4 2ad28d192f6
+11- 1
+0-0 1
+.names 10 2ad28d192f6 2ad28d192a4 2ad28d192f7
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192f7 2ad28d192f8
+11- 1
+0-1 1
+.names 8 2ad28d192f8 2ad28d192a4 2ad28d192f9
+11- 1
+0-0 1
+.names 5 2ad28d192f4 2ad28d192f9 2ad28d192fa
+11- 1
+0-1 1
+.names 4 2ad28d192e7 2ad28d192fa 2ad28d192fb
+11- 1
+0-1 1
+.names 12 2ad28d192c1 2ad28d192a4 2ad28d192fc
+11- 1
+0-0 1
+.names 11 2ad28d192fc 2ad28d192a4 2ad28d192fd
+11- 1
+0-0 1
+.names 10 2ad28d192fd 2ad28d192a4 2ad28d192fe
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d192fe 2ad28d192ff
+11- 1
+0-1 1
+.names 8 2ad28d192ff 2ad28d192a4 2ad28d19300
+11- 1
+0-0 1
+.names 7 2ad28d192f9 2ad28d19300 2ad28d19301
+11- 1
+0-1 1
+.names 12 2ad28d192c7 2ad28d192a4 2ad28d19302
+11- 1
+0-0 1
+.names 11 2ad28d19302 2ad28d192a4 2ad28d19303
+11- 1
+0-0 1
+.names 10 2ad28d19303 2ad28d192a4 2ad28d19ac7
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d19ac7 2ad28d19ac8
+11- 1
+0-1 1
+.names 8 2ad28d19ac8 2ad28d192a4 2ad28d19ac9
+11- 1
+0-0 1
+.names 7 2ad28d19300 2ad28d19ac9 2ad28d19aca
+11- 1
+0-1 1
+.names 6 2ad28d19301 2ad28d19aca 2ad28d19acb
+11- 1
+0-1 1
+.names 12 2ad28d192d3 2ad28d192a4 2ad28d19acc
+11- 1
+0-0 1
+.names 11 2ad28d19acc 2ad28d192a4 2ad28d19acd
+11- 1
+0-0 1
+.names 10 2ad28d19acd 2ad28d192a4 2ad28d19ace
+11- 1
+0-0 1
+.names 9 2ad28d18f06 2ad28d19ace 2ad28d19acf
+11- 1
+0-1 1
+.names 8 2ad28d19acf 2ad28d192a4 2ad28d19ad0
+11- 1
+0-0 1
+.names 14 2ad28d192a4 2ad28d192a4 2ad28d19ad1
+11- 1
+0-0 1
+.names 13 2ad28d19ad1 2ad28d192a4 2ad28d19ad2
+11- 1
+0-0 1
+.names 12 2ad28d192a4 2ad28d19ad2 2ad28d19ad3
+11- 1
+0-1 1
+.names 11 2ad28d19ad3 2ad28d192a4 2ad28d19ad4
+11- 1
+0-0 1
+.names 10 2ad28d192a4 2ad28d19ad4 2ad28d19ad5
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d192a4 2ad28d19ad6
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19ad6 2ad28d19ad7
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19ad7 2ad28d19ad8
+11- 1
+0-1 1
+.names 9 2ad28d19ad5 2ad28d19ad8 2ad28d19ad9
+11- 1
+0-0 1
+.names 8 2ad28d19acf 2ad28d19ad9 2ad28d19ada
+11- 1
+0-0 1
+.names 6 2ad28d19ad0 2ad28d19ada 2ad28d19adb
+11- 1
+0-1 1
+.names 5 2ad28d19acb 2ad28d19adb 2ad28d19adc
+11- 1
+0-1 1
+.names 9 2ad28d18f06 2ad28d192a4 2ad28d19add
+11- 1
+0-0 1
+.names 8 2ad28d19add 2ad28d19ad9 2ad28d19ade
+11- 1
+0-0 1
+.names 7 2ad28d19ada 2ad28d19ade 2ad28d19adf
+11- 1
+0-1 1
+.names 12 2ad28d18f06 2ad28d192e1 2ad28d19ae0
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d19ae0 2ad28d19ae1
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19ae1 2ad28d19ae2
+11- 1
+0-1 1
+.names 9 2ad28d19ae2 2ad28d192a4 2ad28d19ae3
+11- 1
+0-0 1
+.names 8 2ad28d19ae3 2ad28d19ad9 2ad28d19ae4
+11- 1
+0-0 1
+.names 7 2ad28d19ade 2ad28d19ae4 2ad28d19ae5
+11- 1
+0-1 1
+.names 6 2ad28d19adf 2ad28d19ae5 2ad28d19ae6
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d192a7 2ad28d19ae7
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19ae7 2ad28d19ae8
+11- 1
+0-1 1
+.names 9 2ad28d19ae8 2ad28d192a4 2ad28d19ae9
+11- 1
+0-0 1
+.names 11 2ad28d19ad6 2ad28d192a4 2ad28d19aea
+11- 1
+0-0 1
+.names 10 2ad28d192a4 2ad28d19aea 2ad28d19aeb
+11- 1
+0-1 1
+.names 9 2ad28d19aeb 2ad28d19ad8 2ad28d19aec
+11- 1
+0-0 1
+.names 8 2ad28d19ae9 2ad28d19aec 2ad28d19aed
+11- 1
+0-0 1
+.names 8 2ad28d19ae9 2ad28d19ad9 2ad28d19aee
+11- 1
+0-0 1
+.names 7 2ad28d19aee 2ad28d19aed 2ad28d19aef
+11- 1
+0-1 1
+.names 6 2ad28d19aed 2ad28d19aef 2ad28d19af0
+11- 1
+0-1 1
+.names 5 2ad28d19ae6 2ad28d19af0 2ad28d19af1
+11- 1
+0-1 1
+.names 4 2ad28d19adc 2ad28d19af1 2ad28d19af2
+11- 1
+0-1 1
+.names 3 2ad28d192fb 2ad28d19af2 2ad28d19af3
+11- 1
+0-1 1
+.names 15 2ad28d192a4 2ad28d192a4 2ad28d19af4
+11- 1
+0-0 1
+.names 14 2ad28d192a4 2ad28d19af4 2ad28d19af5
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d19af5 2ad28d19af6
+11- 1
+0-1 1
+.names 12 2ad28d19af6 2ad28d192a4 2ad28d19af7
+11- 1
+0-0 1
+.names 11 2ad28d19af7 2ad28d192a4 2ad28d19af8
+11- 1
+0-0 1
+.names 10 2ad28d192a4 2ad28d19af8 2ad28d19af9
+11- 1
+0-1 1
+.names 9 2ad28d19af9 2ad28d19ad8 2ad28d19afa
+11- 1
+0-0 1
+.names 8 2ad28d19ae9 2ad28d19afa 2ad28d19afb
+11- 1
+0-0 1
+.names 7 2ad28d19aed 2ad28d19afb 2ad28d19afc
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d192b2 2ad28d19afd
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19afd 2ad28d19afe
+11- 1
+0-1 1
+.names 9 2ad28d19afe 2ad28d192a4 2ad28d19aff
+11- 1
+0-0 1
+.names 8 2ad28d19aff 2ad28d19afa 2ad28d19b00
+11- 1
+0-0 1
+.names 7 2ad28d19afb 2ad28d19b00 2ad28d19b01
+11- 1
+0-1 1
+.names 6 2ad28d19afc 2ad28d19b01 2ad28d19b02
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d192b9 2ad28d19b03
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19b03 2ad28d19b04
+11- 1
+0-1 1
+.names 9 2ad28d19b04 2ad28d192a4 2ad28d19b05
+11- 1
+0-0 1
+.names 8 2ad28d19b05 2ad28d19afa 2ad28d19b06
+11- 1
+0-0 1
+.names 13 2ad28d192a4 2ad28d19ad1 2ad28d19b07
+11- 1
+0-1 1
+.names 12 2ad28d19b07 2ad28d19ad2 2ad28d19b08
+11- 1
+0-1 1
+.names 11 2ad28d19b08 2ad28d192a4 2ad28d19b09
+11- 1
+0-0 1
+.names 10 2ad28d192a4 2ad28d19b09 2ad28d19b0a
+11- 1
+0-1 1
+.names 9 2ad28d19b0a 2ad28d19ad8 2ad28d19b0b
+11- 1
+0-0 1
+.names 8 2ad28d19b05 2ad28d19b0b 2ad28d19b0c
+11- 1
+0-0 1
+.names 7 2ad28d19b06 2ad28d19b0c 2ad28d19b0d
+11- 1
+0-1 1
+.names 6 2ad28d19b0d 2ad28d19b0c 2ad28d19b0e
+11- 1
+0-1 1
+.names 5 2ad28d19b02 2ad28d19b0e 2ad28d19b0f
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d192a4 2ad28d19b10
+11- 1
+0-0 1
+.names 12 2ad28d19b10 2ad28d192a4 2ad28d19b11
+11- 1
+0-0 1
+.names 11 2ad28d19b11 2ad28d192a4 2ad28d19b12
+11- 1
+0-0 1
+.names 10 2ad28d192a4 2ad28d19b12 2ad28d19b13
+11- 1
+0-1 1
+.names 9 2ad28d19b13 2ad28d19ad8 2ad28d19b14
+11- 1
+0-0 1
+.names 8 2ad28d19b05 2ad28d19b14 2ad28d19b15
+11- 1
+0-0 1
+.names 12 2ad28d19b07 2ad28d192a4 2ad28d19b16
+11- 1
+0-1 1
+.names 11 2ad28d19b16 2ad28d192a4 2ad28d19b17
+11- 1
+0-1 1
+.names 10 2ad28d19b17 2ad28d19ad7 2ad28d19b18
+11- 1
+0-1 1
+.names 9 2ad28d19b13 2ad28d19b18 2ad28d19b19
+11- 1
+0-0 1
+.names 8 2ad28d19b05 2ad28d19b19 2ad28d19b1a
+11- 1
+0-0 1
+.names 7 2ad28d19b15 2ad28d19b1a 2ad28d19b1b
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d192c2 2ad28d19b1c
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19b1c 2ad28d19b1d
+11- 1
+0-1 1
+.names 9 2ad28d19b1d 2ad28d192a4 2ad28d19b1e
+11- 1
+0-0 1
+.names 13 2ad28d19af5 2ad28d19ad1 2ad28d19b1f
+11- 1
+0-0 1
+.names 12 2ad28d19b1f 2ad28d192a4 2ad28d19b20
+11- 1
+0-0 1
+.names 11 2ad28d19b20 2ad28d192a4 2ad28d19b21
+11- 1
+0-0 1
+.names 10 2ad28d192a4 2ad28d19b21 2ad28d19b22
+11- 1
+0-1 1
+.names 9 2ad28d19b22 2ad28d19ad8 2ad28d19b23
+11- 1
+0-0 1
+.names 8 2ad28d19b1e 2ad28d19b23 2ad28d19b24
+11- 1
+0-0 1
+.names 7 2ad28d19b15 2ad28d19b24 2ad28d19b25
+11- 1
+0-1 1
+.names 6 2ad28d19b1b 2ad28d19b25 2ad28d19b26
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d192c8 2ad28d19b27
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19b27 2ad28d19b28
+11- 1
+0-1 1
+.names 9 2ad28d19b28 2ad28d192a4 2ad28d19b29
+11- 1
+0-0 1
+.names 13 2ad28d19af5 2ad28d192a4 2ad28d19b2a
+11- 1
+0-1 1
+.names 12 2ad28d19b2a 2ad28d192a4 2ad28d19b2b
+11- 1
+0-0 1
+.names 11 2ad28d19b2b 2ad28d192a4 2ad28d19b2c
+11- 1
+0-0 1
+.names 10 2ad28d192a4 2ad28d19b2c 2ad28d19b2d
+11- 1
+0-1 1
+.names 9 2ad28d19b2d 2ad28d19ad8 2ad28d19b2e
+11- 1
+0-0 1
+.names 8 2ad28d19b29 2ad28d19b2e 2ad28d19b2f
+11- 1
+0-0 1
+.names 14 2ad28d19af4 2ad28d192a4 2ad28d19b30
+11- 1
+0-0 1
+.names 13 2ad28d19b30 2ad28d192a4 2ad28d19b31
+11- 1
+0-1 1
+.names 12 2ad28d19b31 2ad28d192a4 2ad28d19b32
+11- 1
+0-0 1
+.names 11 2ad28d19b32 2ad28d192a4 2ad28d19b33
+11- 1
+0-0 1
+.names 10 2ad28d192a4 2ad28d19b33 2ad28d19b34
+11- 1
+0-1 1
+.names 9 2ad28d19b34 2ad28d19ad8 2ad28d19b35
+11- 1
+0-0 1
+.names 8 2ad28d19b29 2ad28d19b35 2ad28d19b36
+11- 1
+0-0 1
+.names 7 2ad28d19b2f 2ad28d19b36 2ad28d19b37
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d192a4 2ad28d19b38
+11- 1
+0-0 1
+.names 9 2ad28d19b38 2ad28d19ad8 2ad28d19b39
+11- 1
+0-0 1
+.names 8 2ad28d19b29 2ad28d19b39 2ad28d19b3a
+11- 1
+0-0 1
+.names 6 2ad28d19b37 2ad28d19b3a 2ad28d19b3b
+11- 1
+0-1 1
+.names 5 2ad28d19b26 2ad28d19b3b 2ad28d19b3c
+11- 1
+0-1 1
+.names 4 2ad28d19b0f 2ad28d19b3c 2ad28d19b3d
+11- 1
+0-1 1
+.names 10 2ad28d19aea 2ad28d192a4 2ad28d19b3e
+11- 1
+0-1 1
+.names 9 2ad28d19b28 2ad28d19b3e 2ad28d19b3f
+11- 1
+0-0 1
+.names 13 2ad28d192a4 2ad28d19ad1 2ad28d19b40
+11- 1
+0-0 1
+.names 12 2ad28d19b40 2ad28d192a4 2ad28d19b41
+11- 1
+0-1 1
+.names 11 2ad28d19b41 2ad28d192a4 2ad28d19b42
+11- 1
+0-1 1
+.names 10 2ad28d19ad7 2ad28d19b42 2ad28d19b43
+11- 1
+0-1 1
+.names 9 2ad28d19b43 2ad28d19ad8 2ad28d19b44
+11- 1
+0-1 1
+.names 8 2ad28d19b3f 2ad28d19b44 2ad28d19b45
+11- 1
+0-1 1
+.names 13 2ad28d19ad1 2ad28d19ad1 2ad28d19b46
+11- 1
+0-0 1
+.names 12 2ad28d19b46 2ad28d192a4 2ad28d19b47
+11- 1
+0-1 1
+.names 11 2ad28d19b47 2ad28d192a4 2ad28d19b48
+11- 1
+0-1 1
+.names 10 2ad28d19ad7 2ad28d19b48 2ad28d19b49
+11- 1
+0-1 1
+.names 9 2ad28d19b49 2ad28d19ad8 2ad28d19b4a
+11- 1
+0-1 1
+.names 8 2ad28d19b3f 2ad28d19b4a 2ad28d19b4b
+11- 1
+0-1 1
+.names 7 2ad28d19b45 2ad28d19b4b 2ad28d19b4c
+11- 1
+0-1 1
+.names 12 2ad28d19b1f 2ad28d192a4 2ad28d19b4d
+11- 1
+0-1 1
+.names 11 2ad28d19b4d 2ad28d192a4 2ad28d19b4e
+11- 1
+0-1 1
+.names 10 2ad28d19ad7 2ad28d19b4e 2ad28d19b4f
+11- 1
+0-1 1
+.names 9 2ad28d19b4f 2ad28d19ad8 2ad28d19b50
+11- 1
+0-1 1
+.names 8 2ad28d19b3f 2ad28d19b50 2ad28d19b51
+11- 1
+0-1 1
+.names 15 2ad28d18f06 2ad28d192a4 2ad28d19b52
+11- 1
+0-1 1
+.names 14 2ad28d19b52 2ad28d192a4 2ad28d19b53
+11- 1
+0-0 1
+.names 13 2ad28d19b53 2ad28d192a4 2ad28d19b54
+11- 1
+0-0 1
+.names 12 2ad28d18f06 2ad28d19b54 2ad28d19b55
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d19b55 2ad28d19b56
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19b56 2ad28d19b57
+11- 1
+0-1 1
+.names 9 2ad28d19b57 2ad28d19b3e 2ad28d19b58
+11- 1
+0-0 1
+.names 12 2ad28d19b07 2ad28d192a4 2ad28d19b59
+11- 1
+0-0 1
+.names 11 2ad28d19b59 2ad28d192a4 2ad28d19b5a
+11- 1
+0-0 1
+.names 10 2ad28d19ad7 2ad28d19b5a 2ad28d19b5b
+11- 1
+0-0 1
+.names 9 2ad28d19b5b 2ad28d19ad8 2ad28d19b5c
+11- 1
+0-1 1
+.names 8 2ad28d19b58 2ad28d19b5c 2ad28d19b5d
+11- 1
+0-1 1
+.names 7 2ad28d19b51 2ad28d19b5d 2ad28d19b5e
+11- 1
+0-1 1
+.names 6 2ad28d19b4c 2ad28d19b5e 2ad28d19b5f
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d192da 2ad28d19b60
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19b60 2ad28d19b61
+11- 1
+0-1 1
+.names 9 2ad28d19b61 2ad28d19b3e 2ad28d19b62
+11- 1
+0-0 1
+.names 12 2ad28d192a4 2ad28d19b10 2ad28d19b63
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19b63 2ad28d19b64
+11- 1
+0-1 1
+.names 10 2ad28d19b64 2ad28d19b5a 2ad28d19b65
+11- 1
+0-0 1
+.names 9 2ad28d19b65 2ad28d19ad8 2ad28d19b66
+11- 1
+0-1 1
+.names 8 2ad28d19b62 2ad28d19b66 2ad28d19b67
+11- 1
+0-1 1
+.names 13 2ad28d19ad1 2ad28d192a4 2ad28d19b68
+11- 1
+0-1 1
+.names 12 2ad28d19b68 2ad28d192a4 2ad28d19b69
+11- 1
+0-0 1
+.names 11 2ad28d19b69 2ad28d192a4 2ad28d19b6a
+11- 1
+0-0 1
+.names 10 2ad28d19b6a 2ad28d192a4 2ad28d19b6b
+11- 1
+0-1 1
+.names 9 2ad28d19b61 2ad28d19b6b 2ad28d19b6c
+11- 1
+0-0 1
+.names 12 2ad28d192a4 2ad28d19b40 2ad28d19b6d
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19b6d 2ad28d19b6e
+11- 1
+0-1 1
+.names 10 2ad28d19b6e 2ad28d19b12 2ad28d19b6f
+11- 1
+0-0 1
+.names 9 2ad28d19b6f 2ad28d19ad8 2ad28d19b70
+11- 1
+0-1 1
+.names 8 2ad28d19b6c 2ad28d19b70 2ad28d19b71
+11- 1
+0-1 1
+.names 7 2ad28d19b67 2ad28d19b71 2ad28d19b72
+11- 1
+0-1 1
+.names 8 2ad28d19b62 2ad28d19b70 2ad28d19b73
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d19b30 2ad28d19b74
+11- 1
+0-0 1
+.names 12 2ad28d19b74 2ad28d192a4 2ad28d19b75
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19b75 2ad28d19b76
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19b76 2ad28d19b77
+11- 1
+0-1 1
+.names 9 2ad28d19b6f 2ad28d19b77 2ad28d19b78
+11- 1
+0-1 1
+.names 8 2ad28d19b62 2ad28d19b78 2ad28d19b79
+11- 1
+0-1 1
+.names 7 2ad28d19b73 2ad28d19b79 2ad28d19b7a
+11- 1
+0-1 1
+.names 6 2ad28d19b72 2ad28d19b7a 2ad28d19b7b
+11- 1
+0-1 1
+.names 5 2ad28d19b5f 2ad28d19b7b 2ad28d19b7c
+11- 1
+0-1 1
+.names 10 2ad28d19b12 2ad28d192a4 2ad28d19b7d
+11- 1
+0-1 1
+.names 9 2ad28d19b61 2ad28d19b7d 2ad28d19b7e
+11- 1
+0-0 1
+.names 12 2ad28d19b68 2ad28d192a4 2ad28d19b7f
+11- 1
+0-1 1
+.names 11 2ad28d19b7f 2ad28d192a4 2ad28d19b80
+11- 1
+0-1 1
+.names 10 2ad28d19b6e 2ad28d19b80 2ad28d19b81
+11- 1
+0-1 1
+.names 9 2ad28d19b81 2ad28d19ad8 2ad28d19b82
+11- 1
+0-1 1
+.names 8 2ad28d19b7e 2ad28d19b82 2ad28d19b83
+11- 1
+0-1 1
+.names 10 2ad28d19b6e 2ad28d192a4 2ad28d19b84
+11- 1
+0-1 1
+.names 9 2ad28d19b84 2ad28d19ad8 2ad28d19b85
+11- 1
+0-1 1
+.names 8 2ad28d19b7e 2ad28d19b85 2ad28d19b86
+11- 1
+0-1 1
+.names 7 2ad28d19b83 2ad28d19b86 2ad28d19b87
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19ad8 2ad28d19b88
+11- 1
+0-1 1
+.names 8 2ad28d19b7e 2ad28d19b88 2ad28d19b89
+11- 1
+0-1 1
+.names 14 2ad28d18f06 2ad28d19b52 2ad28d19b8a
+11- 1
+0-1 1
+.names 13 2ad28d18f06 2ad28d19b8a 2ad28d19b8b
+11- 1
+0-1 1
+.names 12 2ad28d19b8b 2ad28d192a4 2ad28d19b8c
+11- 1
+0-0 1
+.names 11 2ad28d18f06 2ad28d19b8c 2ad28d19b8d
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19b8d 2ad28d19b8e
+11- 1
+0-1 1
+.names 12 2ad28d19ad2 2ad28d192a4 2ad28d19b8f
+11- 1
+0-0 1
+.names 11 2ad28d19b8f 2ad28d192a4 2ad28d19b90
+11- 1
+0-0 1
+.names 10 2ad28d19b90 2ad28d192a4 2ad28d19b91
+11- 1
+0-1 1
+.names 9 2ad28d19b8e 2ad28d19b91 2ad28d19b92
+11- 1
+0-0 1
+.names 8 2ad28d19b92 2ad28d19b88 2ad28d19b93
+11- 1
+0-1 1
+.names 7 2ad28d19b89 2ad28d19b93 2ad28d19b94
+11- 1
+0-1 1
+.names 6 2ad28d19b87 2ad28d19b94 2ad28d19b95
+11- 1
+0-1 1
+.names 9 2ad28d19b8e 2ad28d19b38 2ad28d19b96
+11- 1
+0-1 1
+.names 8 2ad28d19b96 2ad28d19b88 2ad28d19b97
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19b42 2ad28d19b98
+11- 1
+0-1 1
+.names 9 2ad28d19b98 2ad28d19ad8 2ad28d19b99
+11- 1
+0-1 1
+.names 8 2ad28d19b96 2ad28d19b99 2ad28d19b9a
+11- 1
+0-1 1
+.names 7 2ad28d19b97 2ad28d19b9a 2ad28d19b9b
+11- 1
+0-1 1
+.names 6 2ad28d19b93 2ad28d19b9b 2ad28d19b9c
+11- 1
+0-1 1
+.names 5 2ad28d19b95 2ad28d19b9c 2ad28d19b9d
+11- 1
+0-1 1
+.names 4 2ad28d19b7c 2ad28d19b9d 2ad28d19b9e
+11- 1
+0-1 1
+.names 3 2ad28d19b3d 2ad28d19b9e 2ad28d19b9f
+11- 1
+0-1 1
+.names 2 2ad28d19af3 2ad28d19b9f 2ad28d19ba0
+11- 1
+0-1 1
+.names 1 2ad28d192d2 2ad28d19ba0 2ad28d19ba1
+11- 1
+0-1 1
+.names 9 2ad28d19b8e 2ad28d192a4 2ad28d19ba2
+11- 1
+0-1 1
+.names 8 2ad28d19ba2 2ad28d19b99 2ad28d19ba3
+11- 1
+0-1 1
+.names 8 2ad28d19ba2 2ad28d19b88 2ad28d19ba4
+11- 1
+0-1 1
+.names 14 2ad28d19af4 2ad28d192a4 2ad28d19ba5
+11- 1
+0-1 1
+.names 13 2ad28d19ba5 2ad28d192a4 2ad28d19ba6
+11- 1
+0-1 1
+.names 12 2ad28d19ba6 2ad28d192a4 2ad28d19ba7
+11- 1
+0-1 1
+.names 11 2ad28d19ba7 2ad28d192a4 2ad28d19ba8
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19ba8 2ad28d19ba9
+11- 1
+0-1 1
+.names 9 2ad28d19ba9 2ad28d19ad8 2ad28d19baa
+11- 1
+0-1 1
+.names 8 2ad28d19ba2 2ad28d19baa 2ad28d19bab
+11- 1
+0-1 1
+.names 7 2ad28d19ba4 2ad28d19bab 2ad28d19bac
+11- 1
+0-1 1
+.names 12 2ad28d19b8b 2ad28d19b07 2ad28d19bad
+11- 1
+0-0 1
+.names 11 2ad28d18f06 2ad28d19bad 2ad28d19bae
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19bae 2ad28d19baf
+11- 1
+0-1 1
+.names 9 2ad28d19baf 2ad28d192a4 2ad28d19bb0
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19af6 2ad28d19bb1
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19bb1 2ad28d19bb2
+11- 1
+0-1 1
+.names 10 2ad28d19bb2 2ad28d19b80 2ad28d19bb3
+11- 1
+0-1 1
+.names 9 2ad28d19bb3 2ad28d19ad8 2ad28d19bb4
+11- 1
+0-1 1
+.names 8 2ad28d19bb0 2ad28d19bb4 2ad28d19bb5
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19b80 2ad28d19bb6
+11- 1
+0-1 1
+.names 9 2ad28d19bb6 2ad28d19ad8 2ad28d19bb7
+11- 1
+0-1 1
+.names 8 2ad28d19bb0 2ad28d19bb7 2ad28d19bb8
+11- 1
+0-1 1
+.names 7 2ad28d19bb5 2ad28d19bb8 2ad28d19bb9
+11- 1
+0-1 1
+.names 6 2ad28d19bac 2ad28d19bb9 2ad28d19bba
+11- 1
+0-1 1
+.names 5 2ad28d19ba3 2ad28d19bba 2ad28d19bbb
+11- 1
+0-1 1
+.names 8 2ad28d19bb0 2ad28d19b88 2ad28d19bbc
+11- 1
+0-1 1
+.names 12 2ad28d19b8b 2ad28d19b10 2ad28d19bbd
+11- 1
+0-0 1
+.names 11 2ad28d18f06 2ad28d19bbd 2ad28d19bbe
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19bbe 2ad28d19bbf
+11- 1
+0-1 1
+.names 9 2ad28d19bbf 2ad28d192a4 2ad28d19bc0
+11- 1
+0-1 1
+.names 8 2ad28d19bc0 2ad28d19b88 2ad28d19bc1
+11- 1
+0-1 1
+.names 15 2ad28d192a4 2ad28d18f06 2ad28d19bc2
+11- 1
+0-0 1
+.names 14 2ad28d192a4 2ad28d19bc2 2ad28d19bc3
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d19bc3 2ad28d19bc4
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19bc4 2ad28d19bc5
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19bc5 2ad28d19bc6
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19bc6 2ad28d19bc7
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19bc7 2ad28d19bc8
+11- 1
+0-1 1
+.names 8 2ad28d19bc0 2ad28d19bc8 2ad28d19bc9
+11- 1
+0-1 1
+.names 7 2ad28d19bc1 2ad28d19bc9 2ad28d19bca
+11- 1
+0-1 1
+.names 6 2ad28d19bbc 2ad28d19bca 2ad28d19bcb
+11- 1
+0-1 1
+.names 5 2ad28d19bbc 2ad28d19bcb 2ad28d19bcc
+11- 1
+0-1 1
+.names 4 2ad28d19bbb 2ad28d19bcc 2ad28d19bcd
+11- 1
+0-1 1
+.names 12 2ad28d192e1 2ad28d19b10 2ad28d19bce
+11- 1
+0-0 1
+.names 11 2ad28d18f06 2ad28d19bce 2ad28d19bcf
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19bcf 2ad28d19bd0
+11- 1
+0-1 1
+.names 9 2ad28d19bd0 2ad28d192a4 2ad28d19bd1
+11- 1
+0-1 1
+.names 8 2ad28d19bd1 2ad28d19bc8 2ad28d19bd2
+11- 1
+0-1 1
+.names 14 2ad28d192a4 2ad28d18f06 2ad28d19bd3
+11- 1
+0-0 1
+.names 13 2ad28d192a4 2ad28d19bd3 2ad28d19bd4
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19bd4 2ad28d19bd5
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19bd5 2ad28d19bd6
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19bd6 2ad28d19bd7
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19bd7 2ad28d19bd8
+11- 1
+0-1 1
+.names 8 2ad28d19bd1 2ad28d19bd8 2ad28d19bd9
+11- 1
+0-1 1
+.names 7 2ad28d19bd2 2ad28d19bd9 2ad28d19bda
+11- 1
+0-1 1
+.names 14 2ad28d19bc2 2ad28d18f06 2ad28d19bdb
+11- 1
+0-0 1
+.names 13 2ad28d192a4 2ad28d19bdb 2ad28d19bdc
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19bdc 2ad28d19bdd
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19bdd 2ad28d19bde
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19bde 2ad28d19bdf
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19bdf 2ad28d19be0
+11- 1
+0-1 1
+.names 8 2ad28d19bd1 2ad28d19be0 2ad28d19be1
+11- 1
+0-1 1
+.names 7 2ad28d19bd9 2ad28d19be1 2ad28d19be2
+11- 1
+0-1 1
+.names 6 2ad28d19bda 2ad28d19be2 2ad28d19be3
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d18f06 2ad28d19be4
+11- 1
+0-0 1
+.names 12 2ad28d192a4 2ad28d19be4 2ad28d19be5
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19be5 2ad28d19be6
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19be6 2ad28d19be7
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19be7 2ad28d19be8
+11- 1
+0-1 1
+.names 8 2ad28d19bd1 2ad28d19be8 2ad28d19be9
+11- 1
+0-1 1
+.names 7 2ad28d19be1 2ad28d19be9 2ad28d19bea
+11- 1
+0-1 1
+.names 12 2ad28d192e1 2ad28d19ad2 2ad28d19beb
+11- 1
+0-0 1
+.names 11 2ad28d18f06 2ad28d19beb 2ad28d19bec
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19bec 2ad28d19bed
+11- 1
+0-1 1
+.names 9 2ad28d19bed 2ad28d192a4 2ad28d19bee
+11- 1
+0-1 1
+.names 8 2ad28d19bee 2ad28d19be8 2ad28d19bef
+11- 1
+0-1 1
+.names 13 2ad28d19bc3 2ad28d18f06 2ad28d19bf0
+11- 1
+0-0 1
+.names 12 2ad28d192a4 2ad28d19bf0 2ad28d19bf1
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19bf1 2ad28d19bf2
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19bf2 2ad28d19bf3
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19bf3 2ad28d19bf4
+11- 1
+0-1 1
+.names 8 2ad28d19bee 2ad28d19bf4 2ad28d19bf5
+11- 1
+0-1 1
+.names 7 2ad28d19bef 2ad28d19bf5 2ad28d19bf6
+11- 1
+0-1 1
+.names 6 2ad28d19bea 2ad28d19bf6 2ad28d19bf7
+11- 1
+0-1 1
+.names 5 2ad28d19be3 2ad28d19bf7 2ad28d19bf8
+11- 1
+0-1 1
+.names 13 2ad28d19bd3 2ad28d18f06 2ad28d19bf9
+11- 1
+0-0 1
+.names 12 2ad28d192a4 2ad28d19bf9 2ad28d19bfa
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19bfa 2ad28d19bfb
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19bfb 2ad28d19bfc
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19bfc 2ad28d19bfd
+11- 1
+0-1 1
+.names 8 2ad28d19bee 2ad28d19bfd 2ad28d19bfe
+11- 1
+0-1 1
+.names 7 2ad28d19bf5 2ad28d19bfe 2ad28d19bff
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d19ba5 2ad28d19c00
+11- 1
+0-1 1
+.names 12 2ad28d19c00 2ad28d19bf9 2ad28d19c01
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19c01 2ad28d19c02
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c02 2ad28d19c03
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c03 2ad28d19c04
+11- 1
+0-1 1
+.names 8 2ad28d19bee 2ad28d19c04 2ad28d19c05
+11- 1
+0-1 1
+.names 13 2ad28d19bdb 2ad28d18f06 2ad28d19c06
+11- 1
+0-0 1
+.names 12 2ad28d192a4 2ad28d19c06 2ad28d19c07
+11- 1
+0-0 1
+.names 11 2ad28d192a4 2ad28d19c07 2ad28d19c08
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c08 2ad28d19c09
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c09 2ad28d19c0a
+11- 1
+0-1 1
+.names 8 2ad28d19bee 2ad28d19c0a 2ad28d19c0b
+11- 1
+0-1 1
+.names 7 2ad28d19c05 2ad28d19c0b 2ad28d19c0c
+11- 1
+0-1 1
+.names 6 2ad28d19bff 2ad28d19c0c 2ad28d19c0d
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d18f06 2ad28d19c0e
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19c0e 2ad28d19c0f
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c0f 2ad28d19c10
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c10 2ad28d19c11
+11- 1
+0-1 1
+.names 8 2ad28d19bee 2ad28d19c11 2ad28d19c12
+11- 1
+0-1 1
+.names 7 2ad28d19c0b 2ad28d19c12 2ad28d19c13
+11- 1
+0-1 1
+.names 12 2ad28d192e1 2ad28d192a4 2ad28d19c14
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d19c14 2ad28d19c15
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19c15 2ad28d19c16
+11- 1
+0-1 1
+.names 9 2ad28d19c16 2ad28d192a4 2ad28d19c17
+11- 1
+0-1 1
+.names 8 2ad28d19c17 2ad28d19c11 2ad28d19c18
+11- 1
+0-1 1
+.names 6 2ad28d19c13 2ad28d19c18 2ad28d19c19
+11- 1
+0-1 1
+.names 5 2ad28d19c0d 2ad28d19c19 2ad28d19c1a
+11- 1
+0-1 1
+.names 4 2ad28d19bf8 2ad28d19c1a 2ad28d19c1b
+11- 1
+0-1 1
+.names 3 2ad28d19bcd 2ad28d19c1b 2ad28d19c1c
+11- 1
+0-1 1
+.names 12 2ad28d19b8b 2ad28d192a4 2ad28d19c1d
+11- 1
+0-1 1
+.names 11 2ad28d18f06 2ad28d19c1d 2ad28d19c1e
+11- 1
+0-1 1
+.names 10 2ad28d18f06 2ad28d19c1e 2ad28d19c1f
+11- 1
+0-1 1
+.names 9 2ad28d19c1f 2ad28d192a4 2ad28d19c20
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c11 2ad28d19c21
+11- 1
+0-1 1
+.names 7 2ad28d19c18 2ad28d19c21 2ad28d19c22
+11- 1
+0-1 1
+.names 6 2ad28d19c18 2ad28d19c22 2ad28d19c23
+11- 1
+0-1 1
+.names 5 2ad28d19c23 2ad28d19c21 2ad28d19c24
+11- 1
+0-1 1
+.names 15 2ad28d192a4 2ad28d18f06 2ad28d19c25
+11- 1
+0-1 1
+.names 14 2ad28d192a4 2ad28d19c25 2ad28d19c26
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d19c26 2ad28d19c27
+11- 1
+0-1 1
+.names 12 2ad28d19c27 2ad28d18f06 2ad28d19c28
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19c28 2ad28d19c29
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c29 2ad28d19c2a
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c2a 2ad28d19c2b
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c2b 2ad28d19c2c
+11- 1
+0-1 1
+.names 6 2ad28d19c21 2ad28d19c2c 2ad28d19c2d
+11- 1
+0-1 1
+.names 5 2ad28d19c21 2ad28d19c2d 2ad28d19c2e
+11- 1
+0-1 1
+.names 4 2ad28d19c24 2ad28d19c2e 2ad28d19c2f
+11- 1
+0-1 1
+.names 14 2ad28d192a4 2ad28d18f06 2ad28d19c30
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d19c30 2ad28d19c31
+11- 1
+0-1 1
+.names 12 2ad28d19c31 2ad28d18f06 2ad28d19c32
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19c32 2ad28d19c33
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c33 2ad28d19c34
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c34 2ad28d19c35
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c35 2ad28d19c36
+11- 1
+0-1 1
+.names 14 2ad28d19c25 2ad28d18f06 2ad28d19c37
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d19c37 2ad28d19c38
+11- 1
+0-1 1
+.names 12 2ad28d19c38 2ad28d18f06 2ad28d19c39
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19c39 2ad28d19c3a
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c3a 2ad28d19c3b
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c3b 2ad28d19c3c
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c3c 2ad28d19c3d
+11- 1
+0-1 1
+.names 6 2ad28d19c36 2ad28d19c3d 2ad28d19c3e
+11- 1
+0-1 1
+.names 13 2ad28d192a4 2ad28d18f06 2ad28d19c3f
+11- 1
+0-1 1
+.names 12 2ad28d19c3f 2ad28d18f06 2ad28d19c40
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19c40 2ad28d19c41
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c41 2ad28d19c42
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c42 2ad28d19c43
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c43 2ad28d19c44
+11- 1
+0-1 1
+.names 13 2ad28d19c26 2ad28d18f06 2ad28d19c45
+11- 1
+0-1 1
+.names 12 2ad28d19c45 2ad28d18f06 2ad28d19c46
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19c46 2ad28d19c47
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c47 2ad28d19c48
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c48 2ad28d19c49
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c49 2ad28d19c4a
+11- 1
+0-1 1
+.names 6 2ad28d19c44 2ad28d19c4a 2ad28d19c4b
+11- 1
+0-1 1
+.names 5 2ad28d19c3e 2ad28d19c4b 2ad28d19c4c
+11- 1
+0-1 1
+.names 13 2ad28d19c30 2ad28d18f06 2ad28d19c4d
+11- 1
+0-1 1
+.names 12 2ad28d19c4d 2ad28d18f06 2ad28d19c4e
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19c4e 2ad28d19c4f
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c4f 2ad28d19c50
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c50 2ad28d19c51
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c51 2ad28d19c52
+11- 1
+0-1 1
+.names 13 2ad28d19c37 2ad28d18f06 2ad28d19c53
+11- 1
+0-1 1
+.names 12 2ad28d19c53 2ad28d18f06 2ad28d19c54
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d19c54 2ad28d19c55
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c55 2ad28d19c56
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c56 2ad28d19c57
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c57 2ad28d19c58
+11- 1
+0-1 1
+.names 6 2ad28d19c52 2ad28d19c58 2ad28d19c59
+11- 1
+0-1 1
+.names 11 2ad28d192a4 2ad28d18f06 2ad28d19c5a
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c5a 2ad28d19c5b
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c5b 2ad28d19c5c
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c5c 2ad28d19c5d
+11- 1
+0-1 1
+.names 5 2ad28d19c59 2ad28d19c5d 2ad28d19c5e
+11- 1
+0-1 1
+.names 4 2ad28d19c4c 2ad28d19c5e 2ad28d19c5f
+11- 1
+0-1 1
+.names 3 2ad28d19c2f 2ad28d19c5f 2ad28d19c60
+11- 1
+0-1 1
+.names 2 2ad28d19c1c 2ad28d19c60 2ad28d19c61
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19c27 2ad28d19c62
+11- 1
+0-1 1
+.names 11 2ad28d19c62 2ad28d18f06 2ad28d19c63
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c63 2ad28d19c64
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c64 2ad28d19c65
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c65 2ad28d19c66
+11- 1
+0-1 1
+.names 7 2ad28d19c5d 2ad28d19c66 2ad28d19c67
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19c31 2ad28d19c68
+11- 1
+0-1 1
+.names 11 2ad28d19c68 2ad28d18f06 2ad28d19c69
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c69 2ad28d19c6a
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c6a 2ad28d19c6b
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c6b 2ad28d19c6c
+11- 1
+0-1 1
+.names 7 2ad28d19c66 2ad28d19c6c 2ad28d19c6d
+11- 1
+0-1 1
+.names 6 2ad28d19c67 2ad28d19c6d 2ad28d19c6e
+11- 1
+0-1 1
+.names 5 2ad28d19c5d 2ad28d19c6e 2ad28d19c6f
+11- 1
+0-1 1
+.names 4 2ad28d19c5d 2ad28d19c6f 2ad28d19c70
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19c38 2ad28d19c71
+11- 1
+0-1 1
+.names 11 2ad28d19c71 2ad28d18f06 2ad28d19c72
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c72 2ad28d19c73
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c73 2ad28d19c74
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c74 2ad28d19c75
+11- 1
+0-1 1
+.names 7 2ad28d19c6c 2ad28d19c75 2ad28d19c76
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19c3f 2ad28d19c77
+11- 1
+0-1 1
+.names 11 2ad28d19c77 2ad28d18f06 2ad28d19c78
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c78 2ad28d19c79
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c79 2ad28d19c7a
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c7a 2ad28d19c7b
+11- 1
+0-1 1
+.names 7 2ad28d19c75 2ad28d19c7b 2ad28d19c7c
+11- 1
+0-1 1
+.names 6 2ad28d19c76 2ad28d19c7c 2ad28d19c7d
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19c45 2ad28d19c7e
+11- 1
+0-1 1
+.names 11 2ad28d19c7e 2ad28d18f06 2ad28d19c7f
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c7f 2ad28d19c80
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c80 2ad28d19c81
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c81 2ad28d19c82
+11- 1
+0-1 1
+.names 7 2ad28d19c7b 2ad28d19c82 2ad28d19c83
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19c4d 2ad28d19c84
+11- 1
+0-1 1
+.names 11 2ad28d19c84 2ad28d18f06 2ad28d19c85
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c85 2ad28d19c86
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c86 2ad28d19c87
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c87 2ad28d19c88
+11- 1
+0-1 1
+.names 7 2ad28d19c82 2ad28d19c88 2ad28d19c89
+11- 1
+0-1 1
+.names 6 2ad28d19c83 2ad28d19c89 2ad28d19c8a
+11- 1
+0-1 1
+.names 5 2ad28d19c7d 2ad28d19c8a 2ad28d19c8b
+11- 1
+0-1 1
+.names 12 2ad28d192a4 2ad28d19c53 2ad28d19c8c
+11- 1
+0-1 1
+.names 11 2ad28d19c8c 2ad28d18f06 2ad28d19c8d
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c8d 2ad28d19c8e
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c8e 2ad28d19c8f
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c8f 2ad28d19c90
+11- 1
+0-1 1
+.names 7 2ad28d19c88 2ad28d19c90 2ad28d19c91
+11- 1
+0-1 1
+.names 11 2ad28d19c0e 2ad28d18f06 2ad28d19c92
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c92 2ad28d19c93
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c93 2ad28d19c94
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c94 2ad28d19c95
+11- 1
+0-1 1
+.names 7 2ad28d19c90 2ad28d19c95 2ad28d19c96
+11- 1
+0-1 1
+.names 6 2ad28d19c91 2ad28d19c96 2ad28d19c97
+11- 1
+0-1 1
+.names 5 2ad28d19c97 2ad28d19c95 2ad28d19c98
+11- 1
+0-1 1
+.names 4 2ad28d19c8b 2ad28d19c98 2ad28d19c99
+11- 1
+0-1 1
+.names 3 2ad28d19c70 2ad28d19c99 2ad28d19c9a
+11- 1
+0-1 1
+.names 11 2ad28d19c28 2ad28d18f06 2ad28d19c9b
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c9b 2ad28d19c9c
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19c9c 2ad28d19c9d
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19c9d 2ad28d19c9e
+11- 1
+0-1 1
+.names 11 2ad28d19c32 2ad28d18f06 2ad28d19c9f
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19c9f 2ad28d19ca0
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19ca0 2ad28d19ca1
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19ca1 2ad28d19ca2
+11- 1
+0-1 1
+.names 6 2ad28d19c9e 2ad28d19ca2 2ad28d19ca3
+11- 1
+0-1 1
+.names 5 2ad28d19c95 2ad28d19ca3 2ad28d19ca4
+11- 1
+0-1 1
+.names 4 2ad28d19c95 2ad28d19ca4 2ad28d19ca5
+11- 1
+0-1 1
+.names 11 2ad28d19c39 2ad28d18f06 2ad28d19ca6
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19ca6 2ad28d19ca7
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19ca7 2ad28d19ca8
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19ca8 2ad28d19ca9
+11- 1
+0-1 1
+.names 11 2ad28d19c40 2ad28d18f06 2ad28d19caa
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19caa 2ad28d19cab
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19cab 2ad28d19cac
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19cac 2ad28d19cad
+11- 1
+0-1 1
+.names 7 2ad28d19ca9 2ad28d19cad 2ad28d19cae
+11- 1
+0-1 1
+.names 6 2ad28d19ca9 2ad28d19cae 2ad28d19caf
+11- 1
+0-1 1
+.names 11 2ad28d19c46 2ad28d18f06 2ad28d19cb0
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19cb0 2ad28d19cb1
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19cb1 2ad28d19cb2
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19cb2 2ad28d19cb3
+11- 1
+0-1 1
+.names 7 2ad28d19cad 2ad28d19cb3 2ad28d19cb4
+11- 1
+0-1 1
+.names 11 2ad28d19c4e 2ad28d18f06 2ad28d19cb5
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19cb5 2ad28d19cb6
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19cb6 2ad28d19cb7
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19cb7 2ad28d19cb8
+11- 1
+0-1 1
+.names 7 2ad28d19cb3 2ad28d19cb8 2ad28d19cb9
+11- 1
+0-1 1
+.names 6 2ad28d19cb4 2ad28d19cb9 2ad28d19cba
+11- 1
+0-1 1
+.names 5 2ad28d19caf 2ad28d19cba 2ad28d19cbb
+11- 1
+0-1 1
+.names 11 2ad28d19c54 2ad28d18f06 2ad28d19cbc
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d19cbc 2ad28d19cbd
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19cbd 2ad28d19cbe
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19cbe 2ad28d19cbf
+11- 1
+0-1 1
+.names 7 2ad28d19cb8 2ad28d19cbf 2ad28d19cc0
+11- 1
+0-1 1
+.names 10 2ad28d192a4 2ad28d18f06 2ad28d19cc1
+11- 1
+0-1 1
+.names 9 2ad28d192a4 2ad28d19cc1 2ad28d19cc2
+11- 1
+0-1 1
+.names 8 2ad28d19c20 2ad28d19cc2 2ad28d19cc3
+11- 1
+0-1 1
+.names 7 2ad28d19cbf 2ad28d19cc3 2ad28d19cc4
+11- 1
+0-1 1
+.names 6 2ad28d19cc0 2ad28d19cc4 2ad28d19cc5
+11- 1
+0-1 1
+.names 5 2ad28d19cc5 2ad28d19cc3 2ad28d19cc6
+11- 1
+0-1 1
+.names 4 2ad28d19cbb 2ad28d19cc6 2ad28d19cc7
+11- 1
+0-1 1
+.names 3 2ad28d19ca5 2ad28d19cc7 2ad28d19cc8
+11- 1
+0-1 1
+.names 2 2ad28d19c9a 2ad28d19cc8 2ad28d19cc9
+11- 1
+0-1 1
+.names 1 2ad28d19c61 2ad28d19cc9 2ad28d19cca
+11- 1
+0-1 1
+.names 0 2ad28d19ba1 2ad28d19cca 2ad28d19ccb
+11- 1
+0-1 1
+.names 2ad28d19ccb f0
+0 1
+.end

@@ -1,0 +1,13 @@
+/home/antonio/Escritorio/Project_2/build/CMakeFiles/rebuild_cache.dir
+/home/antonio/Escritorio/Project_2/build/CMakeFiles/edit_cache.dir
+/home/antonio/Escritorio/Project_2/build/ext/optdet/CMakeFiles/rebuild_cache.dir
+/home/antonio/Escritorio/Project_2/build/ext/optdet/CMakeFiles/scots_to_svg.dir
+/home/antonio/Escritorio/Project_2/build/ext/optdet/CMakeFiles/scots_split_det.dir
+/home/antonio/Escritorio/Project_2/build/ext/optdet/CMakeFiles/scots_opt_lis.dir
+/home/antonio/Escritorio/Project_2/build/ext/optdet/CMakeFiles/edit_cache.dir
+/home/antonio/Escritorio/Project_2/build/ext/optdet/CMakeFiles/scots_opt_det.dir
+/home/antonio/Escritorio/Project_2/build/src/CMakeFiles/rebuild_cache.dir
+/home/antonio/Escritorio/Project_2/build/src/CMakeFiles/edit_cache.dir
+/home/antonio/Escritorio/Project_2/build/src/CMakeFiles/wrapper.dir
+/home/antonio/Escritorio/Project_2/build/src/CMakeFiles/generate_blif.dir
+/home/antonio/Escritorio/Project_2/build/src/CMakeFiles/generate_blif_whole.dir

@@ -1,0 +1,15 @@
+
+
+Splitting controller and generating blif file
+Distance of grid points (eta): 0.005 0.005 1 
+Lower-left grid point: 0.65 4.95 1 
+Upper-right grid point: 1.65 5.95 2 
+Number of grid points in each dimension: 201 201 2 
+Number of grid points: 80802
+Number of BDD variables per dimension 8 8 1 
+Dim 1: BDD variable IDs: 0 1 2 3 4 5 6 7 
+Dim 2: BDD variable IDs: 8 9 10 11 12 13 14 15 
+Dim 3: BDD variable IDs: 16 
+
+./models/dcdc_bdd/blif_file/blif_controller.blif file generated
+CPU_Time_used =  0.000678

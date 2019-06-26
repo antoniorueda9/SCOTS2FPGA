@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -std=c++11 -DSCOTS_BDD -D_GLIBCXX_ASSERTIONS -fvar-tracking -g3  -rdynamic CMakeFiles/vehicle_simulate.dir/vehicle_simulate.cc.o  -o vehicle_simulate -lcudd 
