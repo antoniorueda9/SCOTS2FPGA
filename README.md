@@ -12,7 +12,7 @@ The open source libraries that has been used along with this project are in the 
 The next ones don't require building and installation:
 
 1. SCOTSv2.0 (https://gitlab.lrz.de/matthias/SCOTSv0.2) - tool to generate symbolic controllers
-2. scots_opt_det (https://github.com/ivan-zapreev/SCOTS2C) - tool to determinize controllers
+2. SCOTS2C (https://github.com/ivan-zapreev/SCOTS2C) - tool to determinize controllers
 3. ABC (https://people.eecs.berkeley.edu/~alanmi/abc/) - tool to convert .blif files to verilog language
 
 The next one require building and installation:
