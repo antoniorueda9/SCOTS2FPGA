@@ -26,6 +26,7 @@ This project was tested on Ubuntu and the CUDD library can be compiled as (extra
 ```
 export CUDDPATH=/usr/local
 cd ./ext/cudd-3.0.0
+sudo chmod +x configure
 ./configure --enable-shared --enable-obj \
 --enable-dddmp --prefix=${CUDDPATH}
 make
